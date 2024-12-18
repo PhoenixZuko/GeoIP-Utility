@@ -40,7 +40,7 @@ GeoIP-Range-Extractor/
 
 ##Installation
 
-git clone https://github.com/<your-username>/GeoIP-Range-Extractor.git
+git clone https://github.com/AndreiSorin/GeoIP-Range-Extractor.git
 
 cd GeoIP-Range-Extractor
 
@@ -68,17 +68,29 @@ python3  geoip_extractor.py
     Use the exact country codes displayed in the terminal.    
 
 
+#Example:
+   To extract IP ranges for all countries:  --->  "Enter country codes (0 for all countries or use comma-separated values): 0"
+   To extract IP ranges for the United States, Germany, and France: ---> Enter country codes (0 for all countries or use comma-separated values): US,DE,FR
+
 Use the provided ASN filter files to refine your results.
 
 
 #Step 3: Results
-   The extracted results will be saved in the results/ folder:
+       
+       The extracted results will be saved in the results/ folder:
 
- Result_<country>_<filter>.txt: Filtered results by ASN.
- Rest_<country>_<filter>.txt: IP ranges not matching the ASN filters. 
- concatenate_shuf.txt: Combined and randomized results
+                   Result_<country>_<filter>.txt: Filtered results by ASN.
+                  Rest_<country>_<filter>.txt: IP ranges not matching the ASN filters. 
+                  concatenate_shuf.txt: Combined and randomized results
  
  
+ 
+ 
+#Output
+    The script generates IP ranges in a format compatible with Masscan, making it easy to use the results directly for network scanning purposes. 
+    This allows you to efficiently target IP ranges from specific countries ,  specific ASN or  all countries at once . 
+
+
  Customization
 ASN Filters
 Add or modify files in the ASN-FILTERS/ folder. Each file should contain ASN numbers (one per line) to filter the results.
@@ -112,4 +124,9 @@ GeoLite2-City.mmdb
    pip install -r requirements.txt
 
 ---
+## Author
+
+This project was created and maintained by **Andrei Sorin**.
+
+GitHub Profile: [AndreiSorin](https://github.com/AndreiSorin)
 
