@@ -128,7 +128,7 @@ GeoLite2-City.mmdb
 
 This project was created and maintained by **Andrei Sorin**.
 
-GitHub Profile: [PhoenixZuko](https://github.com/AndreiSorin)
+GitHub Profile: [Andrei Sorin](https://github.com/PhoenixZuko)
 
 # GeoIP-Utility
 # GeoIP-Range-Extractor
