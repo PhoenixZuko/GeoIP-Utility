@@ -1,0 +1,2631 @@
+10796:SCRR-10796 - Time Warner Cable Internet LLC AS11260,CA,EASTLINK-HSI - EastLink AS11426:SCRR-11426 - Time Warner Cable Internet LLC
+12271:SCRR-12271 - Time Warner Cable Internet LLC
+1246:TLL-WEST - Zito Media
+14618:AMAZON-AES - Amazon.com
+15169:GOOGLE - Google Inc.
+16509:AMAZON-02 - Amazon.com
+16586:CLEARWIRE - CLEAR WIRELESS LLC
+19262:VZGNI-TRANSIT - Verizon Online LLC
+19902:NET-STATE-OHIO - Department of Administrative Services
+20057:AT&T Wireless Service
+20115:CHARTER-NET-HKY-NC - Charter Communications
+21928:T-MOBILE-AS21928 - T-Mobile USA, Inc.
+22394:CELLCO - Cellco Partnership DBA Verizon Wireless
+22773:ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc.
+26101:YAHOO-3 - Yahoo!
+27364:ACS-INTERNET - Armstrong Cable Services
+3651:SPRINT-BB6 - Sprint
+3737:PTD-AS - PenTeleData Inc.
+4250:ALENT-ASN-1 - Alentus Corporation
+6079:RCN-AS - RCN Corporation
+6128:CABLE-NET-1 - Cablevision Systems Corp.
+6389:BELLSOUTH-NET-BLK - BellSouth.net Inc.
+7018:ATT-INTERNET4 - AT&T Services
+701:UUNET - MCI Communications Services
+7029:WINDSTREAM - Windstream Communications Inc
+7922:COMCAST-7922 - Comcast Cable Communications
+8075:MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation
+11426:SCRR-11426 - Time Warner Cable Internet LLC
+12083:WOW-INTERNET - WideOpenWest Finance LLC
+33363:BHN-TAMPA - BRIGHT HOUSE NETWORKS, LLC
+1968:UMASSP-DOM - University of Massachusettes
+53435:JACKSONENERGY-EPLUS - JACKSON ENERGY AUTHORITY
+7939:UNIVCENTFLA - University of Central Florida
+11492:CABLEONE - CABLE ONE, INC.
+32587:NCH-FTWDC-01 - Frontier Communications of America, Inc.
+7132:SBIS-AS AS for SBIS-AS
+25934:SVR-MAIN - Syniverse Technologies, LLC
+23118:SKYBEST - Skyline Telephone
+54113:FASTLY - Fastly
+20001:ROADRUNNER-WEST - Time Warner Cable Internet LLC
+23145:BLUE-BOX-GRP - Blue Box Group, Inc.
+209:ASN-QWEST-US NOVARTIS-DMZ-US
+31:CIT - California Institute of Technology
+19918:LUCASFILM - Lucasfilm Ltd.
+20357:BAJA-UT-NM-CO - Baja Broadband
+4983:INTEL-SC-AS - Intel Corporation
+19817:DSLEXTREME - DSL Extreme
+19108:SUDDENLINK-COMMUNICATIONS - Suddenlink Communications
+6621:HNS-DIRECPC - Hughes Network Systems
+3561:SAVVIS-AS SAVVIS-AS3561
+26163:DATAGRAM - Datagram, Inc.
+12196:ETSY - Etsy Inc.
+33535:NYDN-33 - New York Daily News, L.P.
+46489:JUSTINTV - Justin.tv, Inc.
+22300:WIKIA - Wikia, Inc.
+23005:SWITCH-COMMUNICATIONS - SWITCH Communications Group LLC
+36351:SOFTLAYER - SoftLayer Technologies Inc.
+32985:KCG-INC - Knowledge Consulting Group Inc.
+13414:TWITTER-NETWORK - Twitter Inc.
+71:HP-INTERNET-AS Hewlett-Packard Company
+4249:LILLY-AS - Eli Lilly and Company
+3479:PEACHNET-AS1 - Kennesaw State University
+14361:HOPONE-GLOBAL - HopOne Internet Corporation
+5726:INTERWORLD - InterWorld Communications, Inc.
+3356:LEVEL3 Level 3 Communications
+721:DNIC-ASBLK-00721-00726 - DoD Network Information Center
+174:COGENT Cogent/PSI
+3:MIT-GATEWAYS - Massachusetts Institute of Technology
+237:MERIT-AS-14 - Merit Network Inc.
+7377:UCSD - University of California at San Diego
+714:APPLE Apple Inc
+1239:AS1239 SprintLink Global Network
+306:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+2914:NTT-COMMUNICATIONS-2914 - NTT America, Inc.
+2828:XO-AS15 - XO Communications
+702:AS702 Verizon Business EMEA - Commercial IP service provider in Europe
+1668:AOL-ATDN - AOL Transit Data Network
+6167:CELLCO-PART - Cellco Partnership DBA Verizon Wireless
+10455:LUCENT-CIO - Alcatel-Lucent
+11003:PANDG - The Procter and Gamble Company
+2686:AT&T Global Network Services - EMEA
+27064:DNIC-ASBLK-27032-27159 - DoD Network Information Center
+11351:RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC
+11427:SCRR-11427 - Time Warner Cable Internet LLC
+4323:TWTC - tw telecom holdings, inc.
+10782:HP-DIGITAL-10782 - Hewlett-Packard Company
+4152:USDA-1 - USDA
+17229:ATT-CERFNET-BLOCK - AT&T Enhanced Network Services
+5650:FRONTIER-FRTR - Frontier Communications of America, Inc.
+668:DNIC-AS-00668 - DoD Network Information Center
+1761:TGSCNET - General Services Commission
+1660:ANS-CORP-NY - ANS Communications
+1785:AS-PAETEC-NET - PaeTec Communications, Inc.
+326:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+2386:INS-AS - AT&T Data Communications Services
+2152:CSUNET-NW - California State University Network
+21844:THEPLANET-AS - ThePlanet.com Internet Services, Inc.
+3549:GBLX Global Crossing Ltd.
+81:NCREN - MCNC
+361:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+10507:SPCS - Sprint Personal Communications Systems
+7011:FRONTIER-AND-CITIZENS - Frontier Communications of America, Inc.
+4565:MEGAPATH2-US - MegaPath Networks Inc.
+8030:WORLDNET5-10 - AT&T WorldNet
+157:INTELLIAUTON - Silicon Graphics International Corporation
+210:WEST-NET-WEST - Utah Education Network
+22561:DIGITAL-TELEPORT - Digital Teleport Inc.
+10695:WAL-MART - Wal-Mart Stores, Inc.
+600:OARNET-AS - OARnet
+6614:USCC-ASN - United States Cellular Telephone Company, LP
+18566:COVAD - Covad Communications Co.
+2381:WISCNET1-AS - WiscNet
+7385:INTEGRATELECOM - Integra Telecom, Inc.
+6983:ITCDELTA - ITC^Deltacom
+72:SCHLUMBERGER-AS Schlumberger Limited
+387:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+109:CISCO-EU-109 Cisco Systems Global ASN - ARIN Assigned
+19029:NEWEDGENETS - New Edge Networks
+158:ERI-AS - Ericsson Network Systems, Inc.
+4181:TDS-AS - TDS TELECOM
+18676:AVAYA AVAYA
+440:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+395:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+2379:EMBARQ-WNPK - Embarq Corporation
+7792:3M-HDQ-AS - 3M Company
+30036:MEDIACOM-ENTERPRISE-BUSINESS - Mediacom Communications Corp
+4010:DNIC-AS-04010 - Headquarters, USAISC
+1906:NORTHROP-GRUMMAN - Northrop Grumman
+1226:CTA-42-AS1226 - California Technology Agency
+10722:ALCOA - Aluminum Co. of America
+11486:COLO-PREM-VZB - Verizon Online LLC
+5006:ZAYOMN1 - Onvoy
+22017:ADP-EDC - ADP Dealer Services
+703:UUNET - MCI Communications Services, Inc. d/b/a Verizon Business
+297:NISN-SIP-AS - National Aeronautics and Space Administration
+2897:GEORGIA-1 - Georgia Technology Authority
+23399:TELIC-VENTURES - Telic Ventures, Inc.
+14654:WAYPORT - Wayport, Inc.
+2688:ASATTCA AT&T Global Network Services - LA
+8103:STATE-OF-FLA - Florida Department of Management Services - Technology Program
+4208:THE-ISERV-COMPANY - The Iserv Company, LLC
+6325:ILLINOIS-CENTURY - Illinois Century Network
+15003:NOBIS-TECH - Nobis Technology Group, LLC
+1767:ILIGHT-NET - Indiana Higher Education Telecommunication System
+7430:HP-EUROPE-AS Hewlett-Packard Company
+2572:MORENET - University of Missouri - dba the Missouri Research and Education Network (MOREnet)
+665:DNIC-ASBLK-00616-00665 - DoD Network Information Center
+16810:CAVTEL02 - Cavalier Telephone
+22742:CT-ED-NET - State of Connecticut
+14977:STATE-OF-WYOMING-ASN - State of Wyoming Department A&I
+7046:RFC2270-UUNET-CUSTOMER - MCI Communications Services, Inc. d/b/a Verizon Business
+3371:MCI-ASN - MCI
+6181:FUSE-NET - Cincinnati Bell Telephone
+2687:ASATTCA AT&T Global Network Services - AP
+5800:DNIC-ASBLK-05800-06055 - DoD Network Information Center
+3475:DNIC-AS-03475 - Navy Network Information Center (NNIC)
+32:STANFORD - Stanford University
+6075:LM-CORP - Lockheed Martin Corporation
+16811:SPACENET-GTH - Spacenet, Inc.
+4193:WA-STATE-GOV - Department of Information Services
+5056:INS-NET-2 - Iowa Network Services
+6939:HURRICANE - Hurricane Electric, Inc.
+17055:UTAH - University of Utah
+6501:SOUTHERNET - The Southern Company
+1998:STATE-OF-MN - State of Minnesota
+31822:CITY-UNIVERSITY-OF-NEW-YORK - City University of New York
+647:DNIC-ASBLK-00616-00665 - DoD Network Information Center
+11305:P1DH-1-ASN - Peer 1 Dedicated Hosting
+5778:EMBARQ-RCMT - Embarq Corporation
+383:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+27046:DNIC-ASBLK-27032-27159 - DoD Network Information Center
+6301:HP-CLOUD-SERVICES - Hewlett-Packard Company
+5976:DNIC-ASBLK-05800-06055 - DoD Network Information Center
+3354:THENET-AS-3354 - University of Texas System
+87:INDIANA-AS - Indiana University
+10430:WA-K20 - Washington State K-20 Telecommunications Network
+22192:SSHENET - Pennsylvania State System of Higher Education
+22284:DIOS - Department of the Interior, Office of theSecretary
+347:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+491:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+7726:FITC-AS - FITC - FedEx International Transmission Corporation
+390:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+4436:AS-NLAYER - nLayer Communications, Inc.
+1464:DNIC-ASBLK-01464-01465 - Headquarters, USAISC
+17184:ATL-CBEYOND - CBEYOND COMMUNICATIONS, LLC
+20231:ROADRUNNER-CENTRAL - Time Warner Cable Internet LLC
+13438:VIVIO-TECHNOLOGIES - Vivio Technologies
+497:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+11398:EMBARQ-LVGS - Embarq Corporation
+26496:AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC
+6198:BATI-MIA - BellSouth Network Solutions, Inc
+5972:DNIC-ASBLK-05800-06055 - DoD Network Information Center
+19773:MOTOROLA - Motorola, Inc.
+33070:RMH-14 - Rackspace Hosting
+450:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+3491:BTN-ASN - Beyond The Network America, Inc.
+7099:NORTELRCH - NORTEL
+7155:WB-DEN2 - Viasat Communications Inc.
+409:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+11774:CYPRESSCOMM - Cypress Communications, Inc.
+7065:SONOMA - Sonoma Interconnect
+13325:STOMI - State of Michigan, DMB-CNOC
+381:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+6197:BATI-ATL - BellSouth Network Solutions, Inc
+27085:DNIC-ASBLK-27032-27159 - DoD Network Information Center
+132:WPAFB-CSD-NET-AS - 754th Electronic Systems Group
+246:ASIFICS-GW-AS - 754th Electronic Systems Group
+13601:ASN-INNERHOST - Peer 1 Dedicated Hosting
+3680:NOVELL - Novell, Inc.
+18779:EGIHOSTING - EGIHosting
+52:UCLA - University of California, Los Angeles
+6122:ICN-AS - Iowa Communications Network
+11686:ENA - Education Networks of America
+14:COLUMBIA-GW - Columbia University
+206:CSC-IGN-AMER - Computer Sciences Corporation
+5079:DIAL-CALL - Nextel Communications, Inc
+11363:FUJITSU-USA - Fujitsu America Inc.
+6431:ATT-RESEARCH - ATT LABS
+797:AMERITECH-AS - AT&T Services, Inc.
+33588:BRESNAN-AS - Bresnan Communications, LLC.
+7381:SASUSA SunGard Availability Services USA
+11719:EATON-CORPORATION - Eaton Corporation
+243:HARRIS-ATD-AS - Harris Government Systems Sector
+3527:NIH-NET - National Institutes of Health
+1503:DNIC-AS-01503 - Headquarters, USAISC
+6071:UNISYS-AS-E - Unisys Corporation
+38:UIUC - University of Illinois
+1505:DNIC-AS-01505 - Headquarters, USAISC
+6461:MFNX MFN - Metromedia Fiber Network
+18687:MPOWER-2 - MPOWER COMMUNICATIONS CORP.
+11442:NCSU - North Carolina State University
+26662:XEROX-WV - XEROX CORPORATION
+11663:SUG-1 - State of Utah
+391:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+46606:UNIFIEDLAYER-AS-1 - Unified Layer
+19994:RACKSPACE - Rackspace Hosting
+292:ESNET-WEST - ESnet
+138:DNIC-AS-00138 - DoD Network Information Center
+357:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+2637:GEORGIA-TECH - Georgia Institute of Technology
+444:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+17054:AS17054 - CONTINENTAL BROADBAND PENNSYLVANIA, INC.
+217:UMN-AGS-NET-AS - University of Minnesota
+3598:MICROSOFT-CORP-AS - Microsoft Corporation
+68:LANL-INET-AS - Los Alamos National Laboratory
+59:WISC-MADISON-AS - University of Wisconsin Madison
+7017:SCRR-7015 - Time Warner Cable Internet LLC
+1970:TAMUS-NET - Texas A&M University
+8043:LVLT-8043 - Level 3 Communications, Inc.
+1778:DNIC-AS-01778 - DoD Network Information Center
+291:ESNET-EAST - ESnet
+22351:INTELSAT Intelsat Global BGP Routing Policy
+14381:CATERPILLAR-INC - Caterpillar, Inc.
+45:LLL-TIS-AS - Lawrence Livermore National Laboratory
+3372:MCI-ASN - MCI
+25653:FORTRESSITX - FortressITX
+19956:TENNESSEE-NET - BellSouth.net Inc.
+30217:DESYNC - Desync Networks
+32855:EMBARQ-NEBRASKA - Embarq Corporation
+7795:LUMOS - LUMOS Networks, Inc.
+10615:PAINEWEBBER-ASN - UBS AG
+10273:FPL - Florida Power & Light Company
+1585:DNIC-ASBLK-01550-01601 - DoD Network Information Center
+4583:WESTPUB-A - West Publishing Corporation
+11488:BBN-GW - BBN Technologies Corp.
+7127:SCE - Southern California Edison
+11232:MIDCO-NET - Midcontinent Media, Inc.
+1452:DNIC-ASBLK-01451-01456 - Headquarters, USAISC
+122:U-PGH-NET-AS - UPMC
+23537:CRITIGEN - Micro Source, Inc.
+794:ORACLE-ASNBLOCK-ASN - Oracle Corporation
+35916:MULTA-ASN1 - MULTACOM CORPORATION
+1249:FIVE-COLLEGES-AS - Five Colleges Network
+6517:RELIANCEGLOBALCOM - Reliance Globalcom Services, Inc
+6559:NCIH - State of NC - State Telecommunications Services
+32392:OPENTRANSFER-ECOMMERCE - Ecommerce Corporation
+27235:CVC-INET-33 - COLORADO VALLEY COMMUNICATIONS, INC.
+226:LOS-NETTOS-AS - Los Nettos
+8001:NET-ACCESS-CORP - Net Access Corporation
+13768:PEER1 - Peer 1 Network Inc.
+8:RICE-AS - Rice University
+11682:INSTAVPS-SLC1 - InstaVPS
+17224:ATT-CERFNET-BLOCK - AT&T Enhanced Network Services
+16625:AKAMAI-ASN1 Akamai Technologies European AS
+3593:FRONTIER-EPIX - Frontier Communications of America, Inc.
+14910:EMBARQ-FTMY - Embarq Corporation
+13354:ASN-EBLGLOBAL - EBL Global Networks, Inc.
+2013:PACIFIC-GAS - PG&E
+13490:BUCKEYECABLEVISION - Buckeye Cablevision, Inc.
+4130:UPITT-AS - University of Pittsburgh
+29737:WOW-INTERNET - WideOpenWest Finance LLC
+54489:CORESPACE-DAL - CoreSpace, Inc.
+2044:IINET-2044 - Infinity Internet, Inc.
+10846:DEERE - Deere & Company
+427:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+26810:HHSNET-NOC-ASN - U.S. Dept. of Health and Human Services
+1843:NASA-KSC-AS - National Aeronautics and Space Administration
+46498:WEYERH - Weyerhaeuser Company
+594:LVLT594-598 - Level 3 Communications, Inc.
+4544:CONXION-A - ConXioN Corporation
+356:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+1202:JSC-JIN-AS - National Aeronautics and Space Administration
+7459:GRANDECOM-AS1 - Grande Communications Networks, LLC
+7260:NORLIGHT - Norlight Telecommunications
+523:DNIC-AS-00523 - Headquarters, USAISC
+20021:LNH-INC - HostMySite
+7270:NET2PHONE - IDT Corporation
+16572:ATT-MOBILITY-LLC-AS16572 - AT&T Mobility LLC
+14778:INKTOMI-LAWSON - Inktomi Corporation
+11281:GTSINCORP - Global Technology Solutions, Inc
+16812:SPACENET-ENT - Spacenet, Inc.
+13977:CTELCO - FAIRPOINT COMMUNICATIONS, INC.
+17:PURDUE - Purdue University
+4185:ATTIS-ASN4185 - AT&T Internet Services
+19957:TENNESSEE-NET - BellSouth.net Inc.
+14041:AS14041 - University Corporation for Atmospheric Research
+6035:DNIC-ASBLK-05800-06055 - DoD Network Information Center
+30058:FDCSERVERS - FDCservers.net
+6289:AHM-CORP - American Honda Motor Corporation
+11022:ALABANZA-BALT - Alabanza, Inc.
+91:RPI-AS - Rensselaer Polytechnic Institute
+127:JPL-AS127 - Jet Propulsion Laboratory
+35908:VPLSNET - Krypt Technologies
+10921:KIHNETWORK - Commonwealth of KentuckyDepartment of Information Systems
+55:UPENN - University of Pennsylvania
+36049:TX-SKYBEAM - JAB Wireless, INC.
+196:RISC-SYSTEM - Rockwell Scientific Company
+18722:SUPERVALU - SUPERVALU, Inc.
+26:CORNELL - Cornell University
+23352:SERVERCENTRAL - Server Central Network
+73:WASHINGTON-AS - University of Washington
+2048:LANET-1 - State of Louisiana Office of Telecommunications Management
+3707:DIGEX3707 - MCI Communications Services, Inc. d/b/a Verizon Business
+1467:DNIC-ASBLK-01467-01468 - Headquarters, USAISC
+7246:BMS-AS - Bristol-Myers Squibb Company
+20473:AS-CHOOPA - Choopa, LLC
+6192:UCDAVIS-CORE - University of California at Davis
+400:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+3734:SCCO - Santa Clara County Office of Education
+7843:TWCABLE-BACKBONE - Time Warner Cable Internet LLC
+21852:DISNW1 - State Of Arkansas, Department of InformationSystems
+2711:SPIRITTEL-AS - Spirit Telecom
+370:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+36375:UMICH-AS-5 - University of Michigan
+3569:ANDERSEN - Andersen Worldwide S.C.
+30693:EONIX-CORPORATION-AS-WWW-EONIX-NET - Eonix Corporation
+2749:DNIC-AS-02749 - Navy Network Information Center (NNIC)
+7859:PAIR-NETWORKS - pair Networks
+20337:SUNYIT-ASN - SUNY Institute of Technology
+19271:PEAK10 - Peak 10
+22216:SIEMENS-PLM - Siemens Corporation
+32996:AGRIBANK-STPAUL - AgriBank, FCB
+5691:MITRE-AS-5 - The MITRE Corporation
+2576:DOT-AS - U. S. Department of Transportation
+2553:FSU-AS - Florida State University
+1580:DNIC-ASBLK-01550-01601 - DoD Network Information Center
+5668:AS-5668 - CenturyTel Internet Holdings, Inc.
+14265:US-TELEPACIFIC - Telepacific Communications
+19855:ASN-MASERGY-US Masergy US Autonomous System
+1556:DNIC-ASBLK-01550-01601 - DoD Network Information Center
+11530:EMBARQ-MNFD - Embarq Corporation
+10753:LVLT-10753 - Level 3 Communications, Inc.
+23520:COLUMBUS-NETWORKS - Columbus Networks USA, Inc.
+7821:ZAYO-MN - Onvoy
+1472:DNIC-ASBLK-01471-01472 - Headquarters, USAISC
+11955:SCRR-11955 - Time Warner Cable Internet LLC
+6039:DNIC-ASBLK-05800-06055 - DoD Network Information Center
+36444:NEXCESS-NET - NEXCESS.NET L.L.C.
+1600:DNIC-ASBLK-01550-01601 - DoD Network Information Center
+10886:MAX-GIGAPOP - University of Maryland
+12156:STSN-SLC-UT-US - STSN GENERAL HOLDINGS, INC.
+5078:ONENET-AS-1 - Oklahoma Network for Education Enrichment and
+10837:WELLSFARGO - Wells Fargo & Company
+5237:DNIC-ASBLK-05120-05376 - DoD Network Information Center
+36850:UNC-CH - University of North Carolina at Chapel Hill
+111:BOSTONU-AS - Boston University
+13:DNIC-AS-00013 - Headquarters, USAISC
+6360:UNIVHAWAII - University of Hawaii
+3389:FORDSRL-AS - Ford Motor Company
+264:SRINET-AS - SRI International
+11188:LACOUNTY-ISD - LOS ANGELES COUNTY - INTERNAL SERVICESDIVISION
+46887:LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+10967:HOMEDEPOTNET - The Home Depot
+29992:VA-TMP-CORE - Department of Veterans Affairs
+1637:DNIC-AS-01637 - Headquarters, USAISC
+1489:DNIC-ASBLK-01488-01489 - Headquarters, USAISC
+22898:ATLINK - ATLINK SERVICES, LLC
+13672:FAIRPO-3 - FAIRPOINT COMMUNICATIONS, INC.
+18819:ENTERGY-CORP-US - Entergy Corporation
+32577:KROGER - The Kroger Co.
+12006:BROADVIEWNET-AS-12006 - Broadview Networks, Inc.
+10995:PNCBANK - PNC Bank
+22530:DLKCORE - Dialink Corporation
+747:DNIC-AS-00747 - Headquarters, USAISC
+27531:RSTFIBER - RST Communications LLC
+4454:TNET-AS - State of Tennessee
+10405:UPRR-ASN-01 - Union Pacific Railroad Company
+26347:DREAMHOST-AS - New Dream Network, LLC
+27:UMDNET - University of Maryland
+1460:DNIC-ASBLK-01458-01460 - Headquarters, USAISC
+22390:XEROX-WB - XEROX CORPORATION
+40127:LMANET - Longwood Medical and Academic Area (LMA)
+8010:DIGICON-CORP - Digicon Corporation
+31793:BROADSTAR - Primecast
+5050:PSC-EXT - Pittsburgh Supercomputing Center
+18747:IFX-NW - IFX Communication Ventures, Inc.
+7849:CROCKERCOM - CROCKER COMMUNICATIONS
+1224:NCSA-AS - National Center for Supercomputing Applications
+25899:LSNET - LS Networks
+6130:AIS-WEST - American Internet Services, LLC.
+322:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+1488:DNIC-ASBLK-01488-01489 - Headquarters, USAISC
+11714:ASN-UNEB - University of Nebraska Central Administration
+16:LBL - Lawrence Berkeley National Laboratory
+46925:PAVLOVMEDIA-SE - PAVLOV MEDIA INC
+7066:NETWORK-VIRGINIA-AS - Network Virginia
+11863:PLU - Pacific Lutheran University
+1502:DNIC-ASBLK-01500-01502 - Headquarters, USAISC
+33703:HOFSTRA-UNIVERSITY - Hofstra University
+78:SYNTEGRA - Syntegra (USA), Inc.
+6316:AS-PAETEC-NET - PaeTec Communications, Inc.
+12082:NWN-CORPORATION - NWN Corporation
+1591:DNIC-ASBLK-01550-01601 - DoD Network Information Center
+36268:PSSWM4345 - PSS WORLD MEDICAL, Inc.
+1468:DNIC-ASBLK-01467-01468 - Headquarters, USAISC
+337:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+3450:UTK - The University of Tennessee Health Science Center
+35873:MOVE-NETWORKS - Move Networks, inc.
+22221:GMACI-COMM - Integon Services Corporation
+8092:YGNITION Ygnition Networks
+270:PSCNI-AS - National Aeronautics and Space Administration
+683:ARGONNE-AS - Argonne National Lab
+5180:DNIC-ASBLK-05120-05376 - DoD Network Information Center
+1341:AB-AS - Allen-Bradley Company, Inc.
+2642:LEG-CA-GOV - State of California
+17153:NMT-AS - New Mexico Institute of Mining and Technology
+1506:WOOD-AS - Headquarters, USAISC
+32475:SINGLEHOP-INC - SingleHop
+4211:ASN-MARICOPA1 - Maricopa County Government
+26228:SERVEPATH - GoGrid, LLC
+16526:BIRCH-TELECOM - Birch Telecom, Inc.
+10599:MCKESSON - McKesson Corp.
+32328:ALASCOM-IP-MANAGED-NETWORK - Alascom, Inc.
+22925:ALLIED-TELECOM - Allied Telecom Group, LLC
+46844:ST-BGP - Sharktech
+13541:MENTORGRAPHICS - Mentor Graphics Corporation
+3676:UIOWA-AS - University of Iowa
+6341:WIEC - Wisconsin Electric Power Company
+26554:US-SIGNAL - US Signal Company, L.L.C.
+1280:ISC-AS1280 Internet Systems Consortium, Inc.
+8148:TIES - TIES
+18844:SHERWIN-AS - The Sherwin Williams Company
+3112:OARNET-AS-1 - OARnet
+29859:WOW-INTERNET-ILL - WideOpenWest Finance LLC
+16519:CUDENVER - University of Colorado Denver
+14992:CRYSTALTECH - CrystalTech Web Hosting Inc.
+13645:BROADBANDONE - BroadbandONE, Inc.
+11995:OHSU - Oregon Health & Science University
+557:UMAINE-SYS-AS - University of Maine System
+6300:CCI-TEXAS - Consolidated Communications, Inc.
+6222:EMBARQ-CLTN - Embarq Corporation
+32448:METROCAST-1 - MetroCast Cablevision of New Hampshire, LLC.
+41:AMES - National Aeronautics and Space Administration
+1515:DNIC-ASBLK-01513-01518 - Headquarters, USAISC
+15206:MDSG-PACWEST - Pac-West Telecomm, INC.
+3935:EASTWAUNIV - Eastern Washington University
+10662:NORFOLK-SOUTHERN - Norfolk Southern Corporation
+18494:EMBARQ-WRBG - Embarq Corporation
+8147:ASERICY - Ericsson Inc.
+2920:LACOE - Los Angeles County Office of Education
+3743:ARCEL-2 - ARCELORMITTAL USA INC.
+33302:ONS-COS - Data 102, LLC
+26423:DOMRES - VA Power Co.
+11479:BRM-SUN-AS - Sun Microsystems, Inc
+14905:EMBARQ-CHVL - Embarq Corporation
+1482:DNIC-AS-01482 - Headquarters, USAISC
+7782:ALSK-7782 - Alaska Communications Systems Group, Inc.
+1316:LERC-AS-AS - National Aeronautics and Space Administration
+14486:OXY-AS - Occidental College
+48:DNIC-AS-00048 - Navy Network Information Center (NNIC)
+159:SONNET-AS - The Ohio State University
+11078:BROWN - Brown University
+1706:UNIV-ARIZ - University of Arizona
+13326:TUFTS-UNIVERSITY - Tufts University
+46290:MTSAC - MtSAC
+27589:MOJOHOST - MOJOHOST
+21704:NYCBOE-BGPNET - New York City Board of Education
+1999:HOUSE-AS-1 - U.S. House of Representatives
+2900:WN-AZ-AS - Arizona Tri University Network
+22174:NET-SUC-TECH-ALF - State University of New York College ofTechnology at Alfred
+46164:ATT-MOBILITY-LABS - AT&T Mobility Labs
+316:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+1563:DNIC-ASBLK-01550-01601 - DoD Network Information Center
+6459:TRANSBEAM - I-2000, Inc.
+11388:MAXIM - Peer 1 Dedicated Hosting
+352:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+1602:DNIC-AS-01602 - Headquarters, USAISC
+10255:SINISTER - Sinister Networks
+14615:ROCK-HILL-TELEPHONE - Comporium Communications
+36291:RESTON-AS - Aventis Pharmaceuticals Inc.
+15227:LUMOS - LUMOS Networks, Inc.
+2648:NIST-BOULDER - NIST/U.S. Dept. of Commerce
+14529:SJU-5600 - Saint Joseph_s University
+6428:CDM - CDM
+19893:RWT - RagingWire Telecommunications
+32229:JSUMS-ARIN - Jackson State University
+156:NORTHEASTERN-GW-AS - Northeastern University
+10464:TEAMTECH - Team Technologies, LLC
+12129:123NET - 123.Net, Inc.
+3502:INTNET - Intelligence Network Online, Inc.
+53585:NYSIF - The State Insurance Fund
+22199:COVAD-GB - Covad Communications Co.
+11318:GU - Georgetown University
+13335:CLOUDFLARENET - CloudFlare, Inc.
+3955:GETRONICS-ICTO Used in EU
+13376:MERRILL-CORPORATION - Merrill Communications LLC
+1965:TUELECTRIC - Texas Utilities Services, Inc.
+334:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+26551:SARGENT-AND-LUNDY - Sargent & Lundy Engineers
+8047:GCI - GENERAL COMMUNICATION, INC.
+17232:AT&T US
+3562:SNLL-NET-AS - Sandia National Laboratories
+18642:SPACENET-ENT2 - Spacenet, Inc.
+27142:DNIC-ASBLK-27032-27159 - DoD Network Information Center
+3923:FAA-MMAC - Federal Aviation Agency
+33:HP-DIGITAL-33 - Hewlett-Packard Company
+2035:ATK-AS2 - Alliant Techsystems
+12145:COLORADOSTATEUNIV - Colorado State University
+22384:NATIONALNET-1 - NationalNet, Inc.
+27529:CSC-EMEDNY - Computer Sciences Corporation
+36691:CSUP-AS - Colorado State University-Pueblo
+302:BCM-INFO-NET-AS - Baylor College of Medicine
+21788:NOC - Network Operations Center Inc.
+10546:MSSTATE - Mississippi State University
+26367:BRADLEY-UNIVERSITY - Bradley University
+40385:SAINT-MARYS-CA-AS - Saint Mary_s College of California
+7091:VIANET-ASN - ViaNet Communications
+20311:VALERO - Valero Corporate Services
+26854:NYS - New York State
+5693:LATISYS-IRVINE - Latisys-Irvine, LLC
+12042:ENVENTIS - Enventis Telecom Inc.
+2901:OGT-AS - Oso Grande Technologies, Inc.
+14017:BNSF-AS - Burlington Northern Sante Fe Railway Corp
+332:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+11994:CZIO-ASN - Cruzio
+18815:AS-CITY-AND-COUNTY-OF-DENVER - CITY AND COUNTY OF DENVER
+30070:HERSHEYFOODS1 - Hershey Chocolate & Confectionery Corporation
+6062:NETPLEX - NETPLEX
+11303:DATARETURN - Data Return
+11607:SD-STATE-UNIVERSITY - South Dakota State University
+11272:TELEPAK-NETWORKS-INC - Telepak Networks Inc
+104:COLORADO-AS - University of Colorado at Boulder
+14846:CGNOGE - NBC Internet
+14298:EPA-NET - Environmental Protection Agency
+8015:VISI-AS - Vector Internet Services, Inc.
+10326:WPI - Worcester Polytechnic Institute
+5742:CCINET - Consolidated Communications, Inc.
+13592:ASN1 - Sidera Networks LLC
+12079:AIRTOUCH-CELLULAR - Cellco Partnership DBA Verizon Wireless
+36647:YAHOO-GQ1 - Yahoo
+1554:DNIC-ASBLK-01550-01601 - DoD Network Information Center
+1832:SMU - Southern Methodist University
+19384:GRAMTEL001 - GramTel USA, Inc.
+5719:SUNYSB - SUNY at Stony Brook
+23308:UTILITY-AS - UTILITY TELEPHONE, INC.
+335:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+33529:PEAK-WEB-HOSTING - Peak Web Hosting Inc.
+5739:UCSC - University of California, Santa Cruz
+6527:MASSACHUSETTS - Commonwealth of Massachusetts
+18784:MCD-US-ASN - McDonald_s Corporation
+545:NRI - Corporation for National Research Initiatives
+22093:CCF-NETWORK - Cleveland Clinic Foundation
+12:NYU-DOMAIN - New York University
+15323:BSD405 - Bellevue School District
+3782:SWARTHMORE - Swarthmore College
+4266:CERNET-ASN-BLOCK - California Education and Research Federation Network
+32432:COFAN - Colleges of the Fenway, Inc.
+1289:COLGATE-UNIVERSITY - Colgate University
+32125:WHEATON-COLLEGE - Wheaton College
+33698:SECURE-24-DCA - Secure-24, Inc.
+3701:NERONET - Oregon Joint Graduate Schools of Engineering
+6628:PPS - Portland Public Schools
+19849:ARBITRON - Arbitron Inc.
+6377:4JNET - Eugene School District 4J
+15288:ALCATEL-NA - Alcanet International NA
+11872:SYRACUSE-UNIVERSITY - Syracuse University
+14051:SUREWEST - Roseville Telephone Company
+10631:GEORGIA-STATE - Georgia State University
+19999:UNIONASN - Union College
+16558:TOWERGROUP - TOWER GROUP INTERNATIONAL
+17225:ATT-CERFNET-BLOCK - AT&T Enhanced Network Services
+32851:WAL-MART-2 - Wal-Mart Stores, Inc.
+6423:EASYSTREET-ONLINE - EasyStreet Online Services, Inc.
+18712:SUREWEST-KANSAS - SureWest Kansas Operations, LLC
+2705:BJCHE-1 - BJC HEALTH SYSTEM
+14260:USROYALINS - Royal&Sunalliance Insurance
+6112:AUBURN - Auburn University
+20401:HOSTWAY-1 - Hostway Corporation
+14989:BROADVIEWNET - Broadview Networks, Inc.
+53352:HFHS-ASN - Henry Ford Health System
+13433:COXNET - Cox Enterprises Inc
+36352:AS-COLOCROSSING - ColoCrossing
+30013:PIXAR-AS - Pixar
+11273:FDCSGNET - FIRST DATA CORPORATION
+1757:LEXIS-AS - LEXIS-NEXIS
+11509:TIERZERO-AS11509 - Tierzero
+20252:JSIWMC - Joan and Sanford I. Weill Medical College and Graduate School of Medical Sciences of Cornell University
+14433:SUNY-OSWEGO-ASN - State University of New York - Oswego
+19113:DUKE-ENERGY - Duke Energy Corporation
+11798:ACEDATACENTERS-AS-1 - Ace Data Centers, Inc.
+8025:BRIGHTOK-AS - BrightNet Oklahoma
+1982:ASN-NWNEXUS - Northwest Nexus Inc.
+3410:CORNELLCOLLEGE - Cornell College
+543:HP-POLYCOM - Hewlett-Packard Company
+12180:INTERNAP-2BLK - Internap Network Services Corporation
+29866:OPTICALTEL - HCONTROL CORP
+54500:18779 - EGIHosting
+220:OOALC-HOSTNET-AS - 754th Electronic Systems Group
+11355:SHELL - Shell Information Technology International, Inc.
+10355:DSCGA - Digital Service Consultants
+3136:STATE-OF-WISCONSIN-AS1 - State of WI Dept. of Administration
+23013:NET-COM - Network Equipment Technologies, Inc.
+1483:DNIC-AS-01483 - Headquarters, USAISC
+4237:CSC-IGN-FTW - Computer Sciences Corporation
+3455:WAUSAU-INS - Liberty Mutual Group
+33217:SCHNEIDER - Schneider National, Inc.
+362:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+10794:BANK-OF-AMERICA Bank of America
+3999:PENN-STATE - The Pennsylvania State University
+17032:QUALCOMM-QWBS-SD - Qualcomm, Inc.
+25640:HAWAII-DEPT-OF-EDUC - Hawaii Department of Education
+11552:PHOENIX-LIFE-INSURANCE-COMPANY - Phoenix Life Insurance, Inc.
+29:YALE-AS - Yale University
+11916:UNDP - UNDP
+27257:WEBAIR-INTERNET - Webair Internet Development Company Inc.
+19009:ONECLEVELAND - OneCleveland
+46520:CA-DOJ - California Department of Justice
+1463:DNIC-ASBLK-01462-01463 - Headquarters, USAISC
+14751:ONECOM-CVT - One Communications Corporation
+25996:FBICJIS - FBI Criminal Justice Information Systems
+47003:ALPS-AS-1 - Arapahoe School District
+22063:JPGETTYTRUST - J. Paul Getty Trust
+19441:ARRIS2 - Arris Group, Inc
+16889:STEVENS-TECH - Stevens Institute of Technology
+29899:GEISINGER - Geisinger System Services
+22408:WKNET - West Ky Networks
+22920:BIAEDNET-INTERNET - Bureau of Indian Affairs Office of IndianEducation
+6295:WHIDBEY1 - Whidbey Internet Services
+27185:DHS-INTERNET - Danbury Hospital - ITG
+14579:EDWARDJONES - Edward D. Jones & Co., L.P.
+10384:TVA - Tennessee Valley Authority
+2037:CSUFRESNO - California State University at Fresno
+13476:MONTANA-STATE-UNIV - Montana State University - Billings
+25809:BOSE-CORPORATION-US - Bose Corporation
+377:SNLA-NET-AS - Sandia National Laboratories
+348:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+13855:CFU-NET - The Municipal Communications Utility of the City of Cedar Falls, Iowa
+14981:KIRKLAND-ELLIS - Kirkland & Ellis LLP
+11030:QUALCOMM - Qualcomm, Inc.
+5718:MECNET - Merrimack Education Center
+2698:IASTATE-AS - Iowa State University
+26463:MISD-NET - Macomb Intermediate School District
+18715:NYPA - New York Power Authority
+21594:IBSA - Interstate Battery System of America Inc.
+19782:INDIANAGIGAPOP - Indiana University
+3795:BRYNMAWR - Bryn Mawr College
+1504:DNIC-AS-01504 - Headquarters, USAISC
+29791:VOXEL-DOT-NET - Voxel Dot Net, Inc.
+50:ORNL-MSRNET - Oak Ridge National Laboratory
+2701:KSU-NET - Kansas State University
+32818:CSUOHIO-AS - Cleveland State University Computer Services
+37:DNIC-AS-00037 - Navy Network Information Center (NNIC)
+6591:INGR-ASN - Intergraph Corporation
+10297:ENET-2 - eNET Inc.
+1582:DNIC-ASBLK-01550-01601 - DoD Network Information Center
+22323:UNIVERSITY-OF-CALIFORNIA-MERCED - University of California, Merced
+131:UCSB-NET-AS - University of California, Santa Barbara
+16399:FIRSTCOMM-AS2 - First Communications LLC
+10975:NET-AIG - American International Group Data Center, Inc.
+33748:DSCI - DSCI Corporation
+27283:RJF-INTERNET - Raymond James Financial, Inc.
+1312:VA-TECH-AS - Virginia Polytechnic Institute and State Univ.
+36313:LTICTASN01 - Lendingtools.com Inc.
+19973:WBS-JAN-1 - WorldCom BroadBand Solutions
+15307:CHILDRENS-SEATTLE - Childrens Hospital and Regional Medical Center
+19159:STING - Sting Communications
+10849:DCCCD - Dallas County Community College District
+7816:CTC - Concurrent Technologies Corporation
+17231:ATT-CERFNET-BLOCK - AT&T Enhanced Network Services
+3388:UNM-AS - University of New Mexico
+19871:NETWORK-SOLUTIONS-HOSTING - Network Solutions, LLC
+2532:LOC - Library of Congress
+3764:IA-HOU-AS - Internet America, Inc.
+2024:NU - Northeast Utilities
+22226:SFUSD - San Francisco Unified School District
+63:LL-MI - Massachusetts Institute of Technology
+29761:OC3-NETWORKS-AS-NUMBER Web Africa Proxy aut-num object
+10343:NASA-AERONET-AS - National Aeronautics and Space Administration
+355:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+33084:DC-NET - DC-Net
+1586:DNIC-ASBLK-01550-01601 - DoD Network Information Center
+350:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+26026:BUTLER-UNIVERSITY - Butler University
+7014:XO-AS7014 - XO Communications
+7847:NASA-HPCC-ESS - NASA Goddard Space Flight Center
+13315:HBSNET - Harvard Business School
+342:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+5939:DNIC-ASBLK-05800-06055 - DoD Network Information Center
+36149:HAWAIIAN-TELCOM - Hawaiian Telcom Services Company, Inc.
+3911:MIS-AS - Micron
+46780:SJUCSB-AS - Saint John_s University - College of Saint Benedict
+46562:COLO-AT-55-LLC - Colo at 55, LLC
+1649:DNIC-AS-01649 - Headquarters, USAISC
+7872:USAP-ASN - United States Antarctic Program
+21951:STOLAF - St. Olaf College
+29944:LATISYS-ASHBURN - Latisys-Ashburn, LLC
+36701:STETSON-UNIVERSITY - Stetson University
+466:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+5653:UCSF - University of California San Francisco
+589:UNT-CAMPUS-AS - University of North Texas
+4324:WHC-NET - WhiteHorse Communications, Inc.
+10348:HTDC - High Technology Development Corporation
+1474:DNIC-ASBLK-01474-01477 - Headquarters, USAISC
+30137:SEA-BROADBAND - Sea Broadband, LLC
+3452:UAB-AS - University of Alabama at Birmingham
+1466:DNIC-AS-01466 - Headquarters, USAISC
+11596:BESTBUY - Best Buy Co., Inc.
+46832:UNIVERSITY-OF-MISSOURI-SYSTEM-INTER-CAMPUS-NETWORK - University of Missouri - dba the Missouri Research and Education Network (MOREnet)
+10674:GRUCOM - Gainesville Regional Utilities
+21680:GWLNET - Great-West Life Assurance Company
+22700:USFCA - University of San Francisco
+27325:CORENAP-AS - Core NAP, L.P.
+8121:TCH - TCH Network Services
+13333:CCI-PA-AS-1 - Consolidated Communications, Inc.
+13385:COMCAST-TELECOMM - Comcast Telecommunications, Inc.
+195:SDSC-AS - San Diego Supercomputer Center
+26174:SVSU - Saginaw Valley State University
+30143:BEKENG-ASN - BE&K Engineering Company, LLC
+26335:MTSU - Middle Tennessee State University
+46158:OCMBOCES - OCM BOCES
+5647:ASN-KODAK - Eastman Kodak Company
+19530:NDIN-STATE - State of North Dakota, ITD
+17343:SFWMD - South Florida Water Management District
+26934:UNIVERSITY-OF-MISSOURI---COLUMBIA - University of Missouri-Columbia
+16677:AZO - AutoZone Inc
+27030:USCG-AS - United States Coast Guard
+46800:INFOLOGCORP - Information Logistics, Inc
+11650:PLDI - Pioneer Long Distance Inc.
+30629:LCLARK - Lewis & Clark College
+33632:MSU-EAGLE - Morehead State University
+32440:LONI - Louisiana Board of Regents/Louisiana Optical Network Initiative (LONI)
+40514:PAML - Pathology Associates Medical Laboratories
+6620:AS-6620 - AMA Communications, LLC
+27338:OTELCO-AL - Otelco Telephone, LLC
+1498:DNIC-ASBLK-01498-01499 - Headquarters, USAISC
+116:TELCORDIA - Telcordia Technologies
+30023:CYRUSONE-CIN - CyrusOne
+10349:TULANE - Tulane University
+1451:DNIC-ASBLK-01451-01456 - Headquarters, USAISC
+20426:PWC-AS - PriceWaterhouseCoopers, LLP
+40591:BUCKNELLUNIVERSITY - Bucknell University
+18612:TRI-NET-SOLUTIONS - Tri-Net Solutions LLC.
+32244:LIQUID-WEB-INC - Liquid Web, Inc.
+3820:ACP - American Center for Physics
+1207:PSCNET-HS-TEST-AS - Pittsburgh Supercomputing Center
+22958:FIDELITY-001 - Fidelity Access Networks, LLC
+3428:ESNET-AS - ESnet
+637:DNIC-ASBLK-00616-00665 - DoD Network Information Center
+5307:DNIC-ASBLK-05120-05376 - DoD Network Information Center
+7332:LIGHTBOUND-AS - IQuest Internet
+21558:SC-JOHNSON - S.C. Johnson & Son, Inc.
+54771:PLAN-CBL - Plantation Cablevision Inc.
+25609:DMC - Detroit Medical Center
+9:CMU-ROUTER - Carnegie Mellon University
+29946:UNION-CELL - Union Cellular
+53480:VAULTASVA-ASN - Vaultas Alexandria, LLC
+32098:TRANSTELCO-INC - Transtelco Inc
+19184:UWECNET - University of Wisconsin - Eau Claire
+84:DNIC-AS-00084 - Navy Network Information Center (NNIC)
+5760:BIDDEFORD1 - Biddeford Internet Corp
+3390:UMKCNET - University of Missouri - Kansas City
+4927:IMPU Impulse Internet Services
+11930:FUSION-FISERV - Fiserv Pittsburgh
+12025:IO-DATA-CENTERS - IO Capital Princess, LLC
+186:CUA-AS - The Catholic University of America
+2003:EPRI-PA - Electric Power Research Institute
+2041:STNORBERTCOLLEGE - St. Norbert College
+11979:BLUENET - Bluegrass Network LLC
+1495:DNIC-ASBLK-01494-01495 - Headquarters, USAISC
+22576:LAYER3-ASN - Layered Technologies, Inc.
+85:AERO-NET - The Aerospace Corporation
+18812:NEWWAVECOMM - New Wave Communications
+27026:NETWORKMARYLAND - networkMaryland
+19739:COUNTY-SANBERNARDINO - County of San Bernardino
+19991:FIRSTENERGYCORP - FirstEnergy
+32308:8X8-AS - 8x8, Inc.
+13809:UAMS-ASN - University of Arkansas for Medical Sciences
+11039:GWU - The George Washington University
+21948:BROCADE Brocade Communications Systems, Inc.
+47:USC-AS - University of Southern California
+25977:HCCS - HOUSTON COMMUNITY COLLEGE SYSTEM
+343:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+6932:EBSCOPUB - EBSCO Publishing
+6356:NERDCNET - Northeast Regional Data Center
+1569:DNIC-ASBLK-01550-01601 - DoD Network Information Center
+7393:CYBERCON - CYBERCON, INC.
+22373:PEGS - Pegasus Solutions, Inc.
+2768:ERIE-COUNTY - The County of Erie
+22315:SBCSS - San Bernardino County Superintendent of Schools
+1500:DNIC-ASBLK-01500-01502 - Headquarters, USAISC
+5661:USF - UNIVERSITY OF SOUTH FLORIDA
+10843:AITNET - Advanced Internet Technologies
+22488:TL-NYALB - Cengage Learning Inc
+29873:BIZLAND-SD - The Endurance International Group, Inc.
+7136:ONLY - Only Networking Inc. (ONLY2-DOM)
+22089:HALLMARK - Hallmark Cards Inc.
+32727:ACS-EAGAN - Affiliated Computer Services, Inc.
+6261:VISINET - NetTelcos
+18434:FNIS - Fidelity National Information Services, Inc.
+6364:ATLANTIC-NET - Atlantic.net, Inc.
+8116:GUIDANT - Guidant Corporation
+11659:KUMC - University of Kansas Medical Center
+1533:DNIC-AS-01533 - Headquarters, USAISC
+11042:LANDIS-HOLDINGS-INC - Landis Holdings Inc
+23148:TERREMARK Terremark
+3778:TEMPLE - Temple University
+36236:VR-HOSTED Host Virtual, Inc
+32531:FORDHAM-UNIVERSITY - Fordham University
+1510:DNIC-ASBLK-01509-01510 - Headquarters, USAISC
+3909:QWEST-AS-3908 - Qwest Communications Company, LLC
+18558:NETBLK-RCOEK - Riverside County Office of Education
+15196:MDDOT - Maryland Department of Transportation
+1527:DNIC-AS-01527 - Headquarters, USAISC
+6200:UIC-AS - University of Illinois at Chicago
+16852:LVLT-16852 - Level 3 Communications, Inc.
+32107:WAVE-CABLE - Wave Broadband
+3614:DELL-BLK - Dell, Inc.
+6126:CA-INTL-AS - Computer Associates International
+188:SAIC-AS - Science Applications International Corporation
+7774:ALASKA - University of Alaska
+13407:ONECOM-CTC - One Communications Corporation
+36441:UGA-ASN - University of Georgia
+4212:EMBARQ-ES - Embarq Corporation
+33051:SAN-YSIDRO-SCHOOL-DISTRICT - SAN YSIDRO SCHOOL DISTRICT
+1701:EOSDIS-V0 - National Aeronautics and Space Administration
+53927:ACI-WORLDWIDE - ACI Worldwide, Inc.
+14763:STKATE - St. Catherine University
+46879:WEBZE-1-AS - Webzero Inc.
+20093:ZEROLAG - Zerolag Communications, Inc.
+1484:DNIC-AS-01484 - Headquarters, USAISC
+14921:EMBARQ-HDRV - Embarq Corporation
+18618:WCENTRALN - west central wireless
+36433:AS-BCLLP - Bryan Cave LLP
+6938:GREENLAKE-IOC - Greenlake/IOC
+2055:LSU-1 - Louisiana State University
+10952:ECU-AS - East Carolina University
+20:UR - University of Rochester
+17402:EMBARQ-CHSK - Embarq Corporation
+11770:NET56 - Net56
+12229:SAS-WHQ - SAS Institute, Inc.
+3733:LEVENFELD - Levenfeld Pearlstein, LLC
+1477:DNIC-ASBLK-01474-01477 - Headquarters, USAISC
+21976:NJEDGE-NET - NJEDge.Net, Inc.
+22985:UL-LAFAYETTE-1 - University of Louisiana at Lafayette
+5723:JHU - Johns Hopkins University
+22527:SAFEWAY-INC - Safeway, Inc.
+32907:STTHOMAS - University of St. Thomas
+11796:AIRSTREAMCOMM-NET - Airstream Communications, LLC
+32251:BNP-PARIBAS-NY - BNP Paribas New York
+16913:LOYNO-EDU - Loyola University New Orleans
+3573:ACCENTURE-AS3573 Accenture CIO
+367:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+30449:AZSTATE - Arizona State Government
+40102:MONTGOMERY-COLLEGE-AS1 - Montgomery College.
+53667:PONYNET - FranTech Solutions
+327:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+17029:CHP-NET - California Highway Patrol
+54600:PEGTECHINC - PEG TECH INC
+25887:SLIAC - St. Louis Internet Access Consortium
+10857:JCPENNEY-AS - JCPenney Co., Inc.
+16761:FEDMOG-ASN-01 - Federal-Mogul Corporation
+18945:VINS-AS-5 - ViaWest
+25761:STAMINUS-COMM - Staminus Communications
+29933:OFF-CAMPUS-TELECOMMUNICATIONS - Off Campus Telecommunications
+25973:GTT Global Telecom & Technology ASN
+19043:ONEBEACONINSURANCEGROUP - OneBeacon Insurance Group LTD
+40913:QTS-SJC-1 - Quality Technology Services Santa Clara, LLC
+10933:ATXNET-AS - ATX Telecommunications Services
+21864:BEND-BROADBAND - Bend Cable Communications, LLC
+1621:ASN-SECURIAN - Securian Financial Group, Inc.
+6372:DCANET - DCANet
+20141:QUALITYTECH-SUW-300 - Quality Technology Services, LLC.
+47024:THE-METROHEALTH-SYSTEM - The MetroHealth System
+21650:WEST-INTERNET - West Corporation
+10370:NORTHWEST-AIRLINES - Northwest Airlines
+18450:WEBNX - WebNX, Inc.
+102:NSF-HQ-AS - National Science Foundation
+25970:IAC - IAC Services LLC
+5774:USPS-001 - United States Postal Service.
+26045:NOC24-LLC - NOC24 LLC
+7925:WVNET - West Virginia Network for Educational Telecomputing
+11757:WHIRLPOOL-ASN - Whirlpool Corporation
+21889:RAPIDSYSTEMS - Rapid Systems Corporation
+15026:ACXIOM - Acxiom Corporation
+32982:DOE-HQ - U.S. Department of Energy
+11516:ASN-ESB - Eastern Suffolk BOCES
+705:UUNET - MCI Communications Services, Inc. d/b/a Verizon Business
+6099:BAE-NET-ASN - Alameda County Office of Education
+26894:NOACSC-AS - Northwest Ohio Area Computer Services Cooperative
+3762:INSINET INSTINET GLOBAL SERVICES
+26046:USU-EDU - Utah State University
+21734:TRADINGTECH-TTNET - Trading Technologies Intl, Inc.
+16481:BABSON-GNET - Babson College
+7973:MAYO - Mayo Foundation for Medical Education and Research
+20130:DEPAUL - Depaul University
+36217:IPN - IronPath Networks
+17152:BATES - Bates College
+14416:BRAVO-NET - Internet de Nuevo Laredo, S.A de C.V.
+11975:WM - The College of William and Mary
+7349:WINDSTEAM-HOSTED-SOLUTIONS-1 - Windstream Hosted Solutions, LLC
+27357:RACKSPACE - Rackspace Hosting
+11252:ISU-NET-AS - Idaho State University
+23207:NORTHWESTERN-STATE - Northwestern State University
+16461:ASN-UTEP - The University of Texas at El Paso
+12257:EMC EMC
+22140:T-MOBILE-AS22140 - T-Mobile USA, Inc.
+12182:INTERNAP-2BLK - Internap Network Services Corporation
+22723:UN - United Nations
+1457:DNIC-AS-01457 - Headquarters, USAISC
+6482:SUPER-AS1 - SuperMedia LLC
+7800:ALLINA - Allina Health System, Inc.
+46662:BSU-AS - Boise State University
+17223:LATISYS-CHICAGO - Latisys-Chicago, LLC
+14828:HBCI-1999TA - Hiawatha Broadband Communication Inc.
+32959:LITEUP - LiteUp, Inc.
+4190:BINGHAMTON-U - Binghamton University
+8132:ENTEX - ENTEX Information Services
+12115:FNI-STL - Financial Network, Inc.
+16821:DUQUESNELIGHT - Duquesne Light Company
+14443:OTS-YOURACCOUNTS - Output Technology Solutions
+10702:INL-AS - Idaho National Laboratory
+151:IND-NTC-AS - Hewlett-Packard Company
+19708:SLEHS - St. Luke_s Episcopal Hospital
+36591:PRT - PixelRiver
+46467:INFINIUM-CAPITAL-MANAGEMENT-LLC - Infinium Capital Management, LLC
+19545:SITA-NGDC-ATL - SITA Information Networking Computing USA, Inc.
+6528:WORLD-LYNX - World Lynx
+3925:ICO-SV - ICOnetworks
+36269:UOFSCRANTON - University of Scranton
+33362:WIKTEL - Wikstrom Telephone Company, Incorporated
+10859:COMPUTER-SCIENCES-CORP-NTIS - Computer Sciences Corp - NTIS
+7896:UNL-AS - University of Nebraska-Lincoln
+1655:DNIC-AS-01655 - Navy Network Information Center (NNIC)
+14717:ECINET EZE Castle Integration Inc.
+4891:FERRI-3 - Ferric Systems, LLC
+5707:UTHSC-H - The University of Texas Health Science Center at Houston
+16966:SBCIDC-LSAN03 - AT&T Internet Services
+6041:DNIC-ASBLK-05800-06055 - DoD Network Information Center
+25921:LAF-CONSOLIDATED-GOV - Lafayette Consolidated Government
+40289:PHX-CGIAM - CGI TECHNOLOGIES AND SOLUTIONS INC.
+36843:NWRDC-TLH - Florida State University
+26539:GIANT-FOOD-INC - Ahold U.S.A., Inc.
+22197:APPS - Apps Communications
+23377:CARLSON - Carlson Companies Inc.
+33692:MACALE - Macalester College
+11649:GUNET - Gonzaga University
+13323:FMR-AS2 - Fidelity Investments
+14335:VC3 - VC3, Inc.
+7202:FAMU - Florida A & M University
+13332:SVWH - Silicon Valley Web Hosting, Inc.
+1597:DNIC-ASBLK-01550-01601 - DoD Network Information Center
+7328:CHOP - The Children_s Hospital of Philadelphia
+3931:LOGICAL - Logical Net Corporation
+19653:CTSTELECOM - CTS Communications Corp
+21581:M5HOSTING - M5 Computer Security
+40670:VOLUSION - Volusion
+11608:ACTTG - Accretive Networks
+54448:GREENFIELD-COMMUNICATIONS - Greenfield Communications, Inc.
+35884:SECUREDATA365-OH1 - SecureData 365
+22307:VINS-AS-7 - ViaWest
+27193:SKYRIVER - Skyriver Communications, Inc.
+1932:CONED - Consolidated Edison Co. of New York, Inc.
+22769:FONES-WEST-ISP - FONES WEST DIGITAL SYSTEMS, INC
+21740:ENOMAS1 - eNom, Incorporated
+32806:MARITIME-TELECOMMUNICATIONS-NETWORK - MARITIME TELECOMMUNICATIONS NETWORK, INC.
+31967:FLTECH - Florida Institute of Technology
+35986:NO - Allegiance Communications, LLC
+46717:EVERN-1 - Evernet Hosting
+14437:FLEMING - C&S WHOLESALE GROCERS INC.
+22739:BYU-H - Brigham Young University Hawaii
+1432:AC-AS-1 - Albion College
+3833:WYOMING - wyoming.com
+46512:UT-MEDICAL-CENTER - University of Tennessee Medical Center
+53473:CHANNEL-CLARITY - Channel Clarity Holdings, LLC
+22601:BONNPOWERNET - Bonneville Power Administration
+1411:CHRISTOPHER-NEWPORT-UNIVERSITY - Christopher Newport University
+11131:UMBC-AS - University of Maryland Baltimore County (UMBC)
+16710:PBS - Public Broadcasting Service
+4511:MIAMI-EDU - University of Miami
+14985:VEROXITY - Veroxity Technology Partners, Inc.
+11711:TULAROSA-COMMUNICATIONS - TULAROSA COMMUNICATIONS, INC.
+4471:MICAE91-AS - Michigan Internet Cooperative Association
+103:NWU-AS - Northwestern University
+5663:EDCNET - US Geological Survery
+3634:SFASU-AS - Stephen F. Austin State University
+21787:CERIDIAN - CERIDIAN
+12015:WOW-INTERNET - WideOpenWest Finance LLC
+27402:IBC-N1 - Independence Blue Cross
+32748:STEADFAST - Steadfast Networks
+6334:ASN-TSG - The Sabre Group
+11834:DREXEL-ASN - Drexel University
+11847:MIDMAINE - Mid-Maine Communications, Inc.
+36105:BBT-ISP - Big Bend Telephone, Inc.
+18723:SEAGATE-TECHNOLOGY-AS Seagate Technology
+2712:LGC - Landmark Graphics Corporation
+17106:MIDWESTWIRELESS - Cellco Partnership DBA Verizon Wireless
+36498:ACCESS-ONE-INC-AS - Access One Inc.
+36646:YAHOO-NE1 - Yahoo
+328:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+10448:VILLANOVA-UNIV - Villanova University
+22328:CSHS - Cedars-Sinai Health Systems
+18880:VIRTELA-NET-CCAFRE5 Virtela Communications
+20283:CTC-INTERNET-MN - CONSOLIDATED TELEPHONE CO
+1814:CSC-300-AS1810-AS1815 - Computer Sciences Corporation
+22916:PHS-CA - Providence Health & Services
+30408:ASUNET - Arkansas State University
+32480:LLUMC - Loma Linda University Medical Center
+1528:DNIC-AS-01528 - Headquarters, USAISC
+11577:GOVNET-ASN - Vermont Department of Information and Innovation
+22110:LIGTEL-COMMUNICATIONS - Ligtel Communications
+18852:ASHLANDINC-AS - Ashland, Inc.
+1790:Sprint US
+11915:TELWEST-NETWORK-SVCS-STATIC - TEL WEST COMMUNICATIONS LLC
+1491:DNIC-AS-01491 - Headquarters, USAISC
+558:NET2EZ - Net2EZ
+25:UCB - University of California at Berkeley
+8159:KANSASNET - KansasNet / Fox Business Systems
+26557:CARLET-NET - Carleton College
+13611:CDC - U.S. Center For Disease Control and Prevention
+6510:BYU - Brigham Young University
+1501:DNIC-ASBLK-01500-01502 - Headquarters, USAISC
+32934:FACEBOOK - Facebook, Inc.
+30340:AS-TIER - Tierpoint, LLC
+3595:GNAXNET-AS - Global Net Access, LLC
+23193:CCAC - Community College of Allegheny County
+14328:RRD - R.R. Donnelley and Sons, Co.
+22186:EMBARQ-GRNR - Embarq Corporation
+6402:NFRAME - nFrame
+225:VIRGINIA-AS - University of Virginia
+47090:EXEMPLA-HEALTHCARE - Lutheran Medical Center
+26909:WBS-AS - WHEATLAND ELECTRIC COOP
+32073:MCPS-K12-MD-US - Montgomery County Public Schools
+22594:UNI-NET-ASN - University of Northern Iowa
+26068:ONSH-NET-CHGO-BLK01 - OnShore, Inc.
+22299:GCRONLINE - GCR Company
+3794:TAMU - Texas A&M University
+30475:WEHOSTWEBSITES-COM - WeHostWebSites.com
+53508:CABLELYNX - Cablelynx
+11191:F2W-AS - Fire2Wire
+6189:EPFL-AS - Enoch-Pratt Free Library
+3525:ALBERTSONS - Albertson_s Inc.
+33660:CMCS - Comcast Cable Communications, Inc.
+4179:CITY-OF-LA - City of Los Angeles
+2025:UTOLEDO - University of Toledo
+54363:BHI - Baker Hughes Incorporated
+16692:HHMI - Howard Hughes Medical Institute
+31753:SEGOVIA - Segovia, Inc.
+351:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+20105:URICHMOND - University of Richmond
+13598:DAIMLERTRUCKS-NA-AS - Daimler Trucks North America LLC
+22245:WICHITA-STATE-U - Wichita State University
+11867:PRIMUSTEL - Primus Telecommunications, Inc.
+14464:RINET - Rhode Island Network for Educ. Technology
+23158:ETEX-COMMUNICATIONS - ETEX COMMUNICATIONS, LP
+11381:NFIS - NEW FRONTIERS INTERNET SERVICES
+19899:MDC-EDU - Miami Dade College
+22220:EACOMARTS - Electronic Arts, Inc.
+10676:GLOBALEC - Sterling Commerce (America), Inc.
+13979:ATT-IPFR - AT&T Services, Inc.
+21615:CEBRIDGE - Cebridge Connections
+7152:REDCROSS-ASN - American Red Cross
+40020:FARMERS-TELECOMMUNICATIONS-COOPERATIVE-INC - Farmers Telecommunications Cooperative, Inc.
+319:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+23084:CNA-INSURANCE - Continental Casualty Co. (CNA)
+14737:CCCOES - Colorado Community College and Occupational Education System
+26020:STSCI-NET - Space Telescope Science Institute
+14725:KEMPER-TECHSERVICES - Kemper Insurance Companies
+46578:ASN1 - Seer Capital Management, LP
+10953:PECO - PECO Energy Company
+14319:FURMAN-2 - Furman University
+20162:UTDALLAS - University of Texas at Dallas
+10913:INTERNAP-BLK - Internap Network Services Corporation
+555:VTSII - Velocity Technology Solutions II, Inc.
+19554:ANX-INTERNET - ANXeBusiness Corp.
+3464:ASC-NET - Alabama Supercomputer Network
+7829:ASN-NEXTWEB-R2 - Nextweb, Inc
+18980:PEACEHEALTH - Peace Health
+6203:ISDN-NET - The Nexus Group, Inc.
+11333:CYBERTRAILS - Cyber Trails / Arizona Public Service
+27501:LASVEGASNET-AS - LasVegas.Net LLC
+7012:PHYBER - Phyber Communications, LLC.
+160:U-CHICAGO-AS - University of Chicago
+12217:UPS - UNITED PARCEL SERVICE
+23338:ASN-DCS-01 - DCS Pacific Star, LLC
+22646:HARCOM1 - Hargray Communications Group, Inc.
+35852:YELLOW-KCGO - Yellow Transportation Inc.
+14103:ACDNET-ASN1 - ACD.net
+83:DNIC-AS-00083 - Headquarters, USAISC
+20314:CONAGRAFOODS - ConAgra Foods
+20330:NYS-UNIFIED-COURTS - New York State Unified Court System
+19070:EIUNET - Eastern Illinois University
+32709:1-JOINK - JOINK
+53559:ANONYMIZER - KST Networks
+12111:ONEEIGHTY-NET - One Eighty Networks
+16415:PRCNET-DOM - Precision Response Corporation
+16424:MVN-NET - Mt. Vernon.Net, Inc.
+17310:BVU-2 - BRISTOL VIRGINIA UTILITIES
+54885:STATE-OF-IDAHO-SECONDARY-ASN - State of Idaho
+1453:DNIC-ASBLK-01451-01456 - Headquarters, USAISC
+16920:WINDRIVER - Wind River Systems, Inc.
+26488:SCU-ASN - Santa Clara University
+4:ISI-AS - University of Southern California
+8039:CCC-ASN-1 - Cinergy Communications
+321:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+22644:TJUH - Thomas Jefferson University Hospitals
+13894:SECUREWEBS - SECURE WEBS INC
+331:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+3563:PILOT-ASN - Pilot Network Services, Inc
+19224:SUNAMERICA - SunAmerica Financial
+30679:CPPNET - California State Polytechnic University - Pomona
+36857:FREUDE - Freudenberg-NOK General Parternership
+11482:CANISIUS-COLLEGE - Canisius College
+14104:OTS-AS-14104 - University of Texas System
+16992:FLT-15 - FIRST LINK TECHNOLOGY, INC.
+27066:DNIC-ASBLK-27032-27159 - DoD Network Information Center
+26577:BAESYSTEMS - BAE Systems Inc.
+32068:MEMPHISNETWORX - Memphis Networx
+25935:WNYRIC-NET - Erie 1 BOCES
+3378:MCI-ASN - MCI
+27234:VEROXITY-CUST - Veroxity Technology Partners, Inc.
+89:DNIC-AS-00089 - Navy Network Information Center (NNIC)
+6150:NCIFCRF - National Cancer Institute/Frederick Cancer Research
+11970:VCI-MDVL - Vision Communications Inc.
+16746:RELIANTENERGY - RELIANT ENERGY
+3495:SENATE-AS - US Senate
+46255:CHARLOTTE-MECKLENBURG-SCHOOLS-NC - Charlotte-Mecklenburg Schools
+19342:TRINITY-UNIVERSITY - Trinity University
+5766:IHS-MD-AS - Indian Health Service
+6337:HIWAAY - HIWAAY INFORMATION SERVICES, INC.
+22736:CPS-BGP - Cincinnati Public Schools
+2707:FIRSTCOMM-AS1 - First Communications LLC
+19138:SWEET-BRIAR-COLLEGE - Sweet Briar College
+345:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+19217:IVYTECHSC - IVY Tech Community College of Indiana
+25602:TRAVELERSPCAS2 - Travelers Property Casualty Corp.
+5957:DNIC-ASBLK-05800-06055 - DoD Network Information Center
+11540:RTI - Research Triangle Institute
+40910:BAYLOR - Baylor Health Care Systems
+5839:DNIC-ASBLK-05800-06055 - DoD Network Information Center
+31888:FMT-WESTFIELD - First Mile Technologies
+14155:RURAL-TELEPHONE-SVCCO - Rural Telephone Service Co, Inc.
+3671:SLAC - SLAC National Accelerator Laboratory
+32878:NWS-CR - National Weather Service
+26959:TRIZETTO-AS - Trizetto Group
+36704:CSM-AS - Colorado School of Mines
+21727:HAMLINE-EDU - Hamline University
+19092:360NETWORKS-US - 360Networks (USA) Inc.
+26333:UNONET - University of New Orleans
+7838:USAA - USAA
+21769:AS-COLOAM - Colocation America Corporation
+14223:NYSDOH - New York State Department of Health
+14241:ONE-AS - Oakland Schools
+11417:NIU - Northern Illinois University
+18474:AENEAS-CWUS - Aeneas Internet Services
+3130:RGNET-3130 RGnet/PSGnet
+10932:UC2B - UC2B
+22703:ANTHEM - Anthem Blue Cross Blue Shield
+3801:MISNET - Mikrotec Internet Services
+17389:IHS-GROUP - Information Handling Services
+13636:NEC-LABORATORIES-AMERICA-INC - NEC Laboratories America, Inc.
+26769:BANDCON - Bandcon
+10250:INET-SOLUTIONS - INet Solutions
+30082:QS1-DATA-SYSTEMS - QS1 Data Systems
+11197:DART-HITCH - Dartmouth-Hitchcock Medical Center
+14825:VINS-AS-6 - ViaWest
+16928:UTCNET - United Technologies Corp
+8146:GNAC - Global Networking and Computing, Inc.
+16788:TCW-AR - The Computer Works of Arkansas, Inc.
+26209:NETWORK-TOOL - Network Tool and Die Company, Inc.
+26844:PACTIV - Pactiv Corporation
+43:BNL-AS - Brookhaven National Laboratory
+11696:NBS11696 - NBS
+6478:ATT-INTERNET3 - AT&T Services, Inc.
+17052:TARGET - Target Corporation
+33165:MISSOURI-NETWORK-ALLIANCE - Missouri Network Alliance, LLC
+32939:ATLANTICBB-MIDDLETOWN - Atlantic Broadband Finance, LLC
+4265:CERNET-ASN-BLOCK - California Education and Research Federation Network
+14090:NDTELCO - NORTH DAKOTA TELEPHONE COMPANY
+23305:WORTHINGTONINDUSTRIES - Worthington Industries Inc.
+6106:UCR-EDU - University of California, Riverside
+30404:ADVANCED1 - Advanced Cable Communications
+33030:COLLEGE-OF-WOOSTER - College of Wooster
+13445:13445 - Webex Communications, Inc.
+14550:MIDDLEBURY-COLLEGE - Middlebury College
+33631:PARC-ASN - Palo Alto Research Center Incorporated
+22809:AMFAM-INS - American Family Insurance
+12173:UA - The University of Alabama
+25956:ALPHEUS - Alpheus Data Services, L.L.C.
+16753:BELO - BELO Corporation
+2754:EPNG-AS - El Paso Natural Gas Company
+3377:MCI-ASN - MCI
+17207:COLOR-COLL - Colorado College
+11685:HNBCOL-AS - Huntington National Bank
+29951:SYPTEC-NOC - Syptec
+12035:ATLANTICBB-MIAMI - Atlantic Broadband Finance, LLC
+2495:KANREN - Kansas Research and Education Network
+19742:MARLIN - Marlin eSourcing Solutions
+10461:TOWNSENDANALYTICSLTD Realtick, a provider of a broad range of trading and financial market services
+20284:INETUASN1 - INETu, Inc.
+30640:ETHERIC - Etheric Networks, Inc.
+19106:ANDREWS - Andrews University
+36197:ELLIP-1-NET-1 - Ellipse Group Inc
+13694:XECUNET - Xecunet, LLC.
+23342:UNITEDLAYER - Unitedlayer, Inc.
+4136:QUALITYTECH-JCYNYC - Quality Technology Services, N.J., LLC
+14551:UUNET-SA - MCI Communications Services, Inc. d/b/a Verizon Business
+18978:ENZUINC-US - Enzu Inc
+687:DNIC-AS-00687 - DoD Network Information Center
+25776:UNIV-OF-OKLAHOMA - University of Oklahoma
+30488:SPRINGS - Springs Industries, Inc.
+2629:DNIC-AS-02629 - DoD Network Information Center
+32906:FM-INSURANCE F.M. INSURANCE COMPANY LTD
+29895:WOW-INTERNET-COL - WideOpenWest Finance LLC
+19205:PHIBRO-148111 - Phibro, LLC
+40749:CDELIGHTBAND - CLARKSVILLE DEPARTMENT OF ELECTRICITY
+14928:ADAMS-CATV - Adams CATV, Inc
+27302:PUBLIC-CLOTHING-COMPANY-INC - Public Clothing Company , Inc
+11114:WINTEK-CORP - Wintek Corporation
+22828:ASN-FDA - Parklawn Computer Center / DIMES HQ
+53984:AS-WELLSTAR - Wellstar Health System
+29968:ASN-NETSYNC - Dunkirk & Fredonia Telephone Company
+14311:XO-ASN2 - XO Communications
+4997:AFS-WEST - American Fiber Systems, Inc.
+21565:AS21565 - Horry Telephone Cooperative, Inc.
+194:NCAR-AS - University Corporation for Atmospheric Research
+1524:DNIC-ASBLK-01522-01526 - Headquarters, USAISC
+13782:FAFCO - The First American Financial Corporation
+12175:YELMNET - Yelm Telephone Company
+36300:PCSB-ASN - Pinellas County Schools
+40238:JOSTENS - Jostens
+11563:NETENTERPRISE - NetEnterprise Inc.
+14706:MBARI-MAIN - Monterey Bay Aquarium Research Institute
+7968:LOYOLA-UNIV-CHICAGO - Loyola University Chicago
+7956:ONECOM-LTP - One Communications Corporation
+13649:ASN-VINS - ViaWest
+46746:SECURE-24-DCD - Secure-24, Inc.
+22261:SDCWA-ORG - San Diego County Water Authority
+27382:COLOSPACE - ColoSpace, Inc.
+13789:INTERNAP-BLK3 - Internap Network Services Corporation
+11215:LOGIXCOMM-AS - Logix Communications, Inc.
+13576:SDNET - SOUTH DAKOTA NETWORK
+21719:CHL - CHL
+25993:AS-25993 - AT&T Labs, Inc.
+4587:ONEWORLD2 - One World Internetworking, Inc
+22198:LAFAYE - Lafayette College
+14799:EXP-EC2000 - Experian
+54786:ACT-ASN - The American College Testing Program, Inc.
+17378:DBSINTL1 - DBS INTERNATIONAL
+4268:CERNET-ASN-BLOCK - California Education and Research Federation Network
+14827:WSDOT-ASN - Washington State Department of Transportation
+46:RUTGERS - Rutgers University
+23282:COUNTYOFSB - Santa Barbara County
+10713:GIGAN-3 - Insync Internet Services, Inc.
+19529:RAZOR-PHL - Razor Inc.
+31939:DIRECPATH-ATL - DirecPath, LLC
+190:DNIC-AS-00190 - Navy Network Information Center (NNIC)
+10294:CCCD-AS - Coast Community College District
+32867:LLI-BLK1 - Long Lines Internet
+17228:ATT-CERFNET-BLOCK - AT&T Enhanced Network Services
+23341:FITAS - Fashion Institute of Technology
+13781:ENERGYNET - Hopkinsville Electric System
+32703:IFN-NET - Indiana Fiber Network, LLC
+18649:M5-NETWORKS - M5 Networks, Inc.
+4319:CORTLAND - Cortland Electronics Corp.
+6629:NOAA-AS - NOAA
+20308:STARTEKUSA - StarTek USA, INC.
+325:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+15086:QVC - QVC, Inc.
+11687:CITY-OF-HOPE - City of Hope Medical Center
+11457:TEXLINK - Tex-Link Communications, Inc.
+40623:GFDL - NOAA Geophysical Fluid Dynamics Laboratory
+1810:CSC-300-AS1810-AS1815 - Computer Sciences Corporation
+20340:APPIA-COMMUNICATIONS - ISPHONE, INC.
+10271:TCIX - Meganet Communications
+30094:GIGANEWS - Giganews, Inc.
+6536:CITYNET - CityNet
+23205:DIGIS-23205 - JAB Wireless, INC.
+2939:SCAROLINA-AS - State of South Carolina
+10970:LIGHTEDGE - LightEdge Solutions
+12260:COLOSTORE - Colostore.com
+32559:POINTONE-AS - PointOne
+1675:ANS-NY2-AS - ANS Communications
+11116:ONLYINTERNET-BROADBAND-AND-WIRELESS - OnlyInternet Broadband and Wireless
+10457:ILX-ASN - THOMSON FINANCIAL
+23028:TEAM-CYMRU - Team Cymru Inc.
+21899:ABBOTT Abbot Labs
+10487:SIMPLENET - Simple Network Communications, Inc
+30186:TOQEN - Toqen LLC
+6034:DNIC-ASBLK-05800-06055 - DoD Network Information Center
+22864:UTPA - The University of Texas - Pan American
+19318:NJIIX-AS-1 - NEW JERSEY INTERNATIONAL INTERNET EXCHANGE LLC
+25877:OPEN-MOBILE-PUERTO-RICO - Open Mobile
+15337:WRHARPER - Wm. Rainey Harper College
+771:NSN-RICE-AS - National Aeronautics and Space Administration
+30569:CREIGHTON-AS - Creighton University
+16422:NEWSKIES-NETWORKS SES WORLD SKIES ARIN AS, for routing RIPE space.
+6059:UMS2-ASN - University of Maryland
+14325:OSHEAN - OSHEAN, Inc.
+17227:ATT-CERFNET-BLOCK - AT&T Enhanced Network Services
+32654:TWRS-CHI - Towerstream I, Inc.
+5264:DNIC-ASBLK-05120-05376 - DoD Network Information Center
+3447:EMBARQ-CMDS - Embarq Corporation
+11052:IHC-NET - Intermountain Health Care
+20478:GENMILLS - General Mills
+4267:CERNET-ASN-BLOCK - California Education and Research Federation Network
+30614:DELL DELL
+3745:VOLKSWAGEN Volkswagen AG, Wolfsburg 1
+3810:VWMX-AS - Volkswagen of America, Inc.
+15130:USDOJ-GOV - United States Department of Justice
+22822:LLNW-AS Limelight Networks, INC. proxy AS object
+7743:AS-7743 - JPMorgan Chase & Co.
+19751:CCRTC - Endeavor Communications
+33724:BIZNESSHOSTING - VOLICO
+36752:YAHOO-SP1 - Yahoo
+32097:WII-KC - WholeSale Internet, Inc.
+1348:CA-DOTNET-AS - California Department of Transportation
+1742:HARVARD-UNIV - Harvard University
+27353:CLARIAN-ASN - Methodist Hospital of Indiana
+16430:USM - University of Southern Mississippi
+1462:DNIC-ASBLK-01462-01463 - Headquarters, USAISC
+27616:AS-NEWSCHOOL - The New School
+19331:TWIN-LAKES - Twin Lakes Telephone Cooperative Corporation
+11857:AEGON Proxy Object for ARIN AS
+13567:KMB1 - Kimberly-Clark Corporation
+19096:DESALES-NETWORK - DeSales University
+14135:NAVISITE-EAST-2 - Navisite, Inc.
+12261:DEKALB - DTC Communications, Inc.
+30703:SHSC-1-AS - SUNY Health and Science Center
+27594:UTSA - University of Texas at San Antonio
+23489:MARINK12 - Marin County Office of Education
+14676:REGUS - Regus Business Center, LLC
+22801:INTAP-1 - Intap, LLC
+70:NLM-GW - National Library of Medicine
+17064:TISD-VIC - Testengeer Inc
+8100:IPTELLIGENT - IPTelligent LLC
+17014:NAIILLC - North Atlantic Internet, LLC
+20439:PLANO-DATACENTER-AS - Intuit Inc.
+16445:ISPACE - Wave2Wave Communications, Inc
+23127:SOFNETINC - Sofnet, Inc.
+8061:BELLSOUTH-NET-BLK3 - Bellsouth.Net
+6066:VERIZON-BUSINESS-MAE-AS6066 - Verizon Business Network Services Inc.
+20258:ANALOG-DEVICES - Analog Devices, Inc.
+14513:DMACC - Des Moines Area Community College
+22302:INOC - INOC, LLC
+368:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+7204:GIS - Galaxy Internet Services Inc.
+22166:DOTNET-INT - Granite Broadband, LLC.
+6386:BELLSOUTH-NET-BLK - BellSouth.net Inc.
+33543:NOBEL-NY - Nobel, Inc.
+7212:VANDERBILT - Vanderbilt University
+3926:FFX-CNTY - Fairfax County Dept of Information Technology
+33120:VIRGINIA-BEACH-CITY-PUBLIC-SCHOOLS - Virginia Beach City Public Schools
+1812:CSC-300-AS1810-AS1815 - Computer Sciences Corporation
+36263:FORONA - Forona Technologies, Inc.
+16880:TRENDMICRO Global IDC and Backbone of Trend Micro Inc.
+46115:LUTHER - Luther College
+16626:GNAXNET-AS - Global Net Access, LLC
+4373:OCLC-AS - Online Computer Library Center
+22051:BTES-AS - Bristol Tennessee Essential Services
+5651:DESTEK - Friends of Synergytics
+308:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+30064:FRONTIER-FRTR - Frontier Communications of America, Inc.
+7926:FAIR-ISSAC-AS aut-num for customer fair issac
+813:UUNET-CANADA - MCI Communications Services, Inc. d/b/a Verizon Business
+349:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+20185:GEUS-CABLE-INTERNET - GEUS
+11524:SEGNET - SEG Network Technologies
+11907:MSXI-INET - MSX International
+11025:COMCAST-HOUSTON - Comcast - Houston
+22919:PCCNET - Portland Community College
+54787:COUNSYL - Counsyl, Inc.
+36024:COLO4-CO - Colo4, LLC
+22743:FIRST-AMERICAN-REIS - IS
+19362:VALUEACT-CAPITAL-MANAGEMENT-LP-ASN - ValueAct Capital Management, L.P.
+11168:SCC - SMART CHOICE COMMUNICATIONS, LLC
+1699:ANS-1699-AS - ANS Communications
+26251:SIRIUS-1 - Prospeed.Net,Inc.
+26578:NATIONWIDEASN2 - Nationwide Services, Inc
+46663:MARKETSTAR-AS - MARKETSTAR CORPORATION
+27434:DG-FASTCHANNEL - DG
+14365:ADOBE-NET - Adobe Systems Inc.
+32809:DRN-AS - Dickey Rural Networks
+26818:COL-PUB-SCHOOLS-OH - Columbus Public Schools
+30049:METRO - Metropolitan Transit Authority
+12241:NCTCNET-AS1 - Nebraska Central Telephone Company
+3685:BUFFALO-ASN - University of Buffalo
+11999:REJISCOMM-NET - REJIS Commission
+35937:MARQUISNET - MarquisNet
+25674:AS25674 - Excel Telecommunications
+3134:USAID-ASN - U.S. Agency for International Development
+15199:WWU - Western Washington University
+13742:CENCOM-NEBR - CENCOM INC
+39953:HRBL-LAX-INTERNET-BGP - HERBALIFE INTERNATIONAL OF AMERICA, INC.
+1295:BGNOGE - General Electric Company
+7233:YAHOO-US - Yahoo
+25969:SLU - St. Louis University
+54024:CFA-INSTITUTE - CFA Institute
+40948:STRATUS-NETWORKS - Stratus Networks
+53369:EXTREMELINKCORP - extreme link Corporation
+10993:AERIONET-INC - Aerioconnect
+2641:TSRI-AS - The Scripps Research Institute
+1493:DNIC-ASBLK-01492-01493 - Headquarters, USAISC
+16428:SFS-AS1 - Store Financial Services, LLC
+6040:DNIC-ASBLK-05800-06055 - DoD Network Information Center
+29979:PWN-ASBLK - Pioneer Broadband
+1286:IVAS01 - Altay Corporation
+19048:CORIO - Corio, Inc.
+23395:ELIASSPORTSBUREAU - Elias Sports Bureau
+46093:PALM-BEACH-COUNTY-FLORIDA - Palm Beach County
+54369:VSDKET - Limited Brands Inc.
+54473:DUKENET-COMMUNICATIONS - Dukenet Communications, LLC
+34:UDELNET - University of Delaware
+19503:NYMAGDIA-SPR-YIP - Magnetar Capital LLC
+4243:NC-FUNB-AS - WACHOVIA CORP
+12097:MASSCOM - Massillon Cable Communications
+12118:WVU - West Virginia University
+19400:SPX-CORP-AS - SPX Corporation
+29877:STS-TELECOM-AS-1 - STS TELECOM
+23151:TERC-1 - Technical Education Research Centers, Inc.
+8058:TEXAS-COMMUNICATIONS-ISPDONE - Texas Communications, Inc.
+7263:GOFASTNET - gofast.net Inc.
+12220:I-EVOLVE-TECHNOLOGY-SERVICES - I-Evolve Technology Services
+35985:ONERINGNET-ATL-1 - One Ring Networks, Inc.
+13871:TELEBYTE-NW - Telebyte NW
+25764:IFIBER-COMMUNICATIONS - iFiber Communications Corp.
+12124:THORN - Thorn Communications, Inc
+40497:BETHEL-ASN1 - Bethel University
+2535:BP-UK BP Internet UK
+2902:WN-WY-AS - University of Wyoming
+6302:TELSCAPE-COMMUNICATIONS - Telscape Communications, Inc.
+33491:COMCAST-33491 - Comcast Cable Communications, Inc.
+36427:VASSAR-ASN1 - Vassar College
+6254:EGGINC - EG&G, Inc.
+11691:EVOCATIVE - Evocative, Inc.
+23277:SMARTCITY-SAN-DIEGO - Smart City Networks, L.P.
+32071:WKU-AS - Western Kentucky University
+30497:GTBAS - Global Telecom Brokers
+46806:DIRECT-ASN-01 - Direct Colocation, LLC
+19151:WVFIBER-1 - WV FIBER
+21748:SKYCOM1 - Pecquet, Adair, Freeland, Ober LLC
+14607:OTA - OTA Management LLC
+23403:THE-COURIER-JOURNAL-AS - The Courier-Journal, inc.
+14859:CAC-ASN - CENTRAL ARIZONA COLLEGE
+6623:CBSI-1 - CBS Interactive Inc.
+40839:KOHLS-ECOM - KOHLS DEPARTMENT STORES
+40099:EOT - EMPIRE ONE TELECOMMUNICATIONS, INC.
+3606:CONNCOLL-AS - Connecticut College
+10912:INTERNAP-BLK - Internap Network Services Corporation
+11177:QUESTAR - Questar
+19215:ENERGIZE - Pulaski Electric System
+31941:ILS - The Nexus Group, Inc.
+10316:CODERO-AS - Codero
+27534:AS27534 - Mutual of Omaha Insurance Company
+6522:LEHIGH - Lehigh University
+32313:ASNUMBERFORNEXTAG - Nextag Inc.
+21808:PRLSS - Peerless Network LLC
+4531:MEDWEB - Nexsys Electronics, Inc.
+10732:TIERRANET - TierraNet Inc.
+7453:ACCELERATION - ACCELERATED DATA WORKS, INC.
+26801:ZITOMEDIA611 - Zito Media, L.P.
+10966:ALASKA-AIR - Alaska Airlines, Inc.
+16988:IPAPER - International Paper
+40122:MORTGAGE-INFORMATION-SERVICES-INC - Mortgage Information Services INC
+11829:CADENCE - Cadence Design Systems, Inc.
+20448:VPNTRANET-LLC - VPNtranet, LLC.
+26121:JEPPESEN - Jeppesen
+15352:TCCC - The Coca-Cola Company
+17094:MUTOMAHA-I - Mutual of Omaha Insurance Company
+26891:MICROTECH-TEL - Microtech-tel
+16713:NOANET-WA - Northwest Open Access Network
+11880:TICKE-19-ASN - Tickets.com, Inc.
+11194:NUNETPA - NuNet Inc.
+12178:INTERNAP-2BLK - Internap Network Services Corporation
+14454:PERIMETER-ESECURITY - Perimeter eSecurity
+13624:SNC-SPARKS - Sierra Nevada Corporation
+54003:ULS-LLC - Urban Lending Solutions
+54509:LTX-DH6 - SABRE HOLDINGS CORPORATION
+30145:SKYLIST - SKYLIST INC
+22523:NMCOURTS-ASN - State of NM Administrative Office of the Courts
+32019:ADACORE - Ada Core Technologies, Inc.
+30458:NIUTECH-ASN - NiuTech
+16718:EMBARQ-HMBL - Embarq Corporation
+14353:DAVITA-DALLAS - DAVITA INC
+54699:APPCELERATOR-HDQT01 - Appcelerator, Inc.
+11602:SDSMT-AS - South Dakota School of Mines and Technology
+11240:ACCESSATC - AccessATC
+12028:MMINTERNET - MM Internet, Inc.
+3738:SSB-ASN - State Street Bank and Trust Company
+14890:HAYBOONET - Haynes and Boone, L.L.P.
+19972:DIGEO-BROADBAND - Digeo Broadband Partners Inc.
+54036:CHES-NET - Clean Harbors Environmental Services, Inc.
+54060:POUDRESCHOOLDISTRICT - Poudre School District R-1
+27506:RBS-NYC - Sidera Networks LLC
+12090:NET-AAA - AAA National
+22719:ATLANTICBB-JOHNSTOWN-2 - Atlantic Broadband Finance, LLC
+40308:WB - Viasat Communications Inc.
+16815:CITRIX_ONLINE_LLC-16815 Citrix Online LLC
+53823:SMTA - Scio Mutual Telephone Association
+22759:ASTOUND-CABLE - Wave Broadband
+13720:SONYONLINE - Sony Online Entertainment, LLC
+2551:LVLT-2551 - Level 3 Communications, Inc.
+3110:HOLONET - Information Access Technologies, Inc.
+8158:LUCENT-WHATS - LGS Innovations, LLC
+7991:SAVVISSTL - SAVVIS COMMUNICATIONS
+32102:MASS-CONVENTION-CENTER-AUTHORITY - Massachusetts Convention Center Authority
+6382:BELLSOUTH-NET-BLK - BellSouth.net Inc.
+14608:AFS-1 - Alaska Fiberstar
+6073:ETI - KAPS, Inc
+46218:COMPORIUM-BREVARD-AS - Comporium Communications
+15071:BAX-BGP - BAX GLOBAL
+36675:CCPS-1 - Collier County Public Schools
+23481:HCTC-LINK1 - Hill Country Telephone Cooperative, Inc.
+22190:KNIGHT - Knight Capital Group, Inc
+46483:RGHS - Rochester General Hospital
+13688:PSEG - Public Service Enterprise Group
+145:VBNS - MCI Communications Corporation
+14364:HARDING-LAWSON - Harding Lawson Associates
+23376:APPSERVE - AppServe Technologies, LLC
+26462:AS-GENESEO - SUNY Geneseo Computer Center
+14508:VFL-BB-1 - Velocity Futures, LLC
+27624:AS-ELCA-CWO - ELCA
+27011:XSR-ASN - XM Satellite Radio
+11766:MERIPLEX-1-AS - Meriplex Communications, Ltd.
+21890:RHINO-DURACOM - JAB Wireless, INC.
+23365:IFBYPHONE - Ifbyphone, Inc.
+54312:ROCKETFUEL - Rocket Fuel Inc.
+7753:IPHOUSE-1 - ipHouse
+5665:DELMARVA-ASN - Delmarva Power & Light Company
+11370:UNEED - Uneed Solutions Inc.
+20260:TRAFFIC01 - Traffic.com
+29990:ASN-APPNEXUS - AppNexus, Inc
+16638:CORNINGINC01 - Corning Incorporated
+14991:IL2K - ElkhartNet, Inc
+23089:HOTWIRE-COMMUNICATIONS - Hotwire Communications
+22944:KCTCS-INTERNET2 - Kentucky Community and Technical College System
+7362:HST-CHRON - Hearst Newspapers, LLC
+1733:DISACENT-NIPR-ASN - DoD Network Information Center
+12247:TRECA - Tri-Rivers Educational Computer Association
+21617:NARA - National Archives and Records Administration
+14524:SERCO-NA - SERCO NA
+2050:SPRINTCORP - Sprint Enterprise Information Services
+18794:RAMAPO-COLLEGE - Ramapo College of New Jersey
+25772:NCARB - National Council of Architectural Registration Boards
+22001:INVITROGEN - Life Technologies Corp.
+18629:LTF-001 - LIFE TIME FITNESS, Inc.
+32524:GRUPO-SMS - Grupo-SMS USA, LLC
+19201:ETC - Eastex Telephone Cooperative, Inc.
+12114:BARNESANDNOBLE-COM - BarnesandNoble.com
+21933:21933 - MSC.SOFTWARE CORPORATION
+53316:ASN-CHEETA-MAIL - CHEETAHMAIL
+31996:ETALKNETWORK - etalk Corporation
+14244:NSIHOSTING-EQX-VA - NSI Hosting
+16527:GVTCINTERNET - Guadalupe Valley Telephone Cooperative, Inc.
+88:PRINCETON-AS - Princeton University
+13377:DCWISP-ASN-1 - DC WIRELESS ISP INC
+20470:DIRECTV-LOSANGELES - DirecTV Operations
+36063:ITSPEED-0001 - Arrownet, Inc.
+23292:MILLENIUM-DIGITAL - Broadstripe
+11643:EBAY - eBay, Inc
+20249:JEFFERIES-INTERNATIONAL-LIMITED-AS Jefferies International Limited
+40661:ESC6-NET - Education Service Center, Region VI
+7958:IDI - Internet Direct, Incorporated
+19710:DINO-SOL - Dino Solutions, Inc.
+18777:TSU-SM - Texas State University - San Marcos
+11090:MTAONLINE-AS - Matanuska Telephone Association, Inc.
+11669:MOVE-SITES - Move Sales, Inc.
+22820:CYBERA - Cybera
+12048:PARLANT - Parlant Technology, Inc.
+13986:ECSIS-HST - ECSIS.NET
+22409:LACKAWAXEN-TELECOMMUNICATIONS-SERVICES-INC - Lackawaxen Telecommunications Services, Inc.
+22949:GRINNE-AS - Grinnell College
+13506:US-DEPARTMENT-OF-THE-TREASURY - US Department of the Treasury
+31803:MMPLP - Magellan Midstream Partners, L.P.
+26133:FEWPB - Frankfort Plant Board
+26878:TWRS-NYC - Towerstream I, Inc.
+32909:ROYALTY-CARPET-MILLS - Royalty Carpet Mills
+30193:LAUSD-AS - Los Angeles Unified School District
+18647:ACCEL-AS - Accel Net, Inc.
+19213:SABRE-DFW - Sabre Inc.
+1294:DELL-NETPLEX-AS - Dell, Inc.
+17390:AT-AND-T AT&T GLOBAL NETWORK SERVICES
+26803:FIBERNOC - Fiber Internet Center
+16385:CESG-16385 - BNY ConvergEx Execution Solutions LLC
+6912:HCSNET-ASNBLK - Hayes Computer Systems
+19118:AS-SIT - IDT Corporation
+13501:OARNET-AS-2 - OARnet
+30501:WFG-ASN - Williams Financial Group
+53684:FLASHPOINT-SC-AS-1 - Flashpoint Informatics Incorporated
+54376:LYNX-NETWORK-GROUP - Lynx Network Group, Inc.
+22442:HOU-PHONOSCOPE - PHONOSCOPE
+14756:ATMOSPHERE-AS - Atmosphere
+54543:EPICUP-COM - Epic Up.com
+29863:LATISYS-DENVER - Latisys-Denver, LLC
+14492:DATAPIPE - DataPipe, Inc.
+19769:CAPITALONE-KDC - Capital One Financial Corporation
+1535:DNIC-ASBLK-01534-01546 - Headquarters, USAISC
+32723:AS-INF-001 - Infonexion Corp
+33022:WELLESLEY-COLLEGE - Wellesley College
+46698:NTSCONN - NTS Connections, LLC
+22000:AAIMED - ALLIANCE FOR ACADEMIC INTERNAL MEDICINE
+16657:FIBERTECH-NETWORKS-AS-ROC-NY-US - Fibertech Networks, LLC
+33614:SANNET - San Diego Data Processing Corp.
+26749:CALLTOWER - CallTower, Inc.
+31848:DVUSD - Deer Valley Unified School District
+26319:CHFCU - CoastHills Federal Credit Union
+6102:CBSCORPORATE - CBS inc.
+29885:UCHHS-AS - Univeristy of Chicago Hospitals & Health System
+53488:MORRISBB - Morris Broadband, LLC
+14149:ICONFITNESS-MAIN - Icon Health & Fitness Inc
+10475:VENTURENET - VentureNet, L.L.C.
+19372:NCOGROUP-FTW - NCO Group, Inc.
+14511:POLAR-COMMUNICATIONS - Polar Communications
+4269:CERNET-ASN-BLOCK - California Education and Research Federation Network
+14383:VCS-AS - Virtacore Systems Inc
+21577:TOLEDOTELNET - TOLEDO TELEPHONE CO INC
+54471:AVH - Androscoggin Valley Hospital
+19856:BRAZOSPORT-COLLEGE - Brazosport College
+2685:ASATTCA AT&T Global Network Services - CA
+33387:DATASHACK - DataShack, LC
+32411:ASSURERX-HEALTH-CORPORATE - AssureRx Health, Inc.
+14299:ADP1 - Automatic Data Processing, Inc.
+53537:ISG-AS001 - ISG Software Group, LLC
+16967:SBCIDC-DLLSTX - AT&T Internet Services
+46811:SILVERIP-ASN - SilverIP Communications Inc.
+7850:CITYLINKFIBER - iHighway.net, Inc.
+31893:MCKNIGHT-DATA - McKnight Dallas Real Estate, LP
+26654:RFA-IDC - Richard Fleischman & Assoc., Inc.
+23190:AES - AES Pacific Inc.
+30159:EQUINIX-EDMA-ASH-ASN - Equinix, Inc.
+33274:ASN-FAIRVIEWHEALTHSERVICES - Fairview Health Services
+6210:NFL1 - National Football League
+3361:DF-TUKWILA01 - Digital Fortress, Inc.
+46196:RCIT-CORNET - County of Riverside
+19316:BLUEMONTNETWORKS - Bluemont Networks, LLC
+32739:CHRISTIANACARE-AS-1 - Christiana Care Health Services, Inc.
+20454:SSASN2 - SECURED SERVERS LLC
+12181:INTERNAP-2BLK - Internap Network Services Corporation
+14237:BEAMSPEED1 - Beamspeed
+14589:DIGITALWEST-AS - Digital West Networks, Inc.
+16804:SEI-ISS - SEI INFORMATION TECHNOLOGY
+53392:PROQUEST-AS - PROQUEST LLC
+40237:UNITED-TELEPHONE - United Telephone Company
+18950:EDUCATE - Educate Inc
+20085:UAKRON - The University of Akron
+13327:EKU - Eastern Kentucky University
+17005:NFL3 - National Football League
+11167:IN-TOUCH-IN-FLIGHT - AirCell, LLC.
+35971:MYRTLE - CompuNet, Inc.
+2923:AS-TIAA-NET - TIAA-CREF
+19343:WNYCS - Synergy Global Solutions, Inc.
+18679:NIRVANIX-ASN1 Nirvanix, Inc.
+30688:FASTTRACK-NET-AS - FastTrack Communications Inc.
+10823:NETCARRIER - NetCarrier, Inc.
+32451:SITE-B-DATA - Site B Data Services, LLC.
+3705:GPO-NET - U.S. Government Printing Office
+27435:OPSOURCE-INC - OpSource, Inc.
+6220:AS6220 - inContact Inc.
+14686:YISI - Double Dog Communications
+30361:SWIFTWILL2 - Swiftwill, Inc.
+13548:CHARLESTON-AS - College of Charleston
+27445:BSINET - Brainstorm Internet, Inc.
+8122:DQNAS - Duquesne University
+30219:CODEREADY-SOLUTIONS - CodeReady Solutions, Inc.
+20447:CADMUSCOMMNET - Cadmus Communications, Inc.
+40911:L2NC-AS - L2Networks Corp.
+27262:TVCCONNECT-AS - Thames Valley Communications, Inc.
+22591:DECHO - Decho Corporation
+36200:UWSUMMIT - United Way of Summit County
+6319:MARRIOT-ASN - Marriot Corporation
+14373:UTMB - University of Texas Medical Branch
+39978:REED-SMITH-ASN - REED SMITH LLP
+10991:CAPGE-HOSTING-MRO - Capgemini U.S. LLC
+22849:CINGULAR-AW - AT&T Services, Inc.
+15177:STARTOUCH-WA1 - STARTOUCH INC
+54987:VEGAS-CLOUD - Xenigy LLC
+31850:AWECOMM - Awecomm Technologies, LLC
+23051:AS23051 - FHI 360
+26439:CITY-OF-ABQ - City of Albuquerque
+7203:LEASEWEB-US - Leaseweb USA, Inc.
+18454:AUGSBURG - Augsburg College
+40861:PARAD-40-ASN - Paradise Networks LLC
+26951:CYGEM-HQ-AKRON-OH - CYGEM LTD
+18441:IP-NETWORKED-SERVICES - IP Networked Services Inc.
+14074:COLGATE - Colgate-Palmolive Co.
+54628:I9BIZ - i9biz,inc.
+40581:AREON-AS - Arkansas Research and Education Optical Network
+11402:CCCAS-1 - Charlotte Colocation Center, LLc
+12131:IJ-NET - Internet Junction Corporation
+6966:USDOS - U.S. Department of State
+8012:PERSHING - The Bank of New York Mellon Corporation
+22244:MOTOROLA-PHX - Motorola, Inc.
+33548:UNWIRED-NOC - Unwired Broadband, Inc.
+32101:ASN-KLYS - Kelly Supply Company
+6594:DIGIS-MICROSERV - JAB Wireless, INC.
+10819:ICC - IFWORLD Inc.
+46470:SKIDMORE-I2-AS - Skidmore College
+22861:CAMP-COMM-SERVICES - Camp Communication Services, INC
+27269:SNPS-DMZ - Synopsys Inc.
+14222:NFCU-AS - Navy Federal Credit Union
+23131:STARLAN - STARLAN TELECOM CORP.
+2140:ISSC-AS - ISSC
+19280:WYOMING-MEDICAL-CENTER - Wyoming Medical Center, Inc.
+27553:TELNET - Telnet Worldwide, Inc.
+13918:CITYOFTUCSON - City of Tucson
+36364:MHSNET - Mary Washington Hospital, Inc.
+10242:USINTERNET - US Internet Corp
+21947:BCI - Blackfoot Telephone Cooperative, Inc.
+3446:KANSAS - State of Kansas
+27524:XEEX-COMMUNICATIONS - Xeex
+26794:DCN-AS - Dakota Carrier Network
+16836:UDATA - UData
+33122:SPWL - Sun Prairie Utilities
+54084:REGION14ESC - REGION 14 EDUCATION SERVICE CENTER
+10755:DARTMOUTH-AS - Dartmouth College
+54773:DVSNETWORKS - DVS NETWORKS, INC.
+20275:SIERRA-ATLANTIC-FREMT - Sierra Atlantic Inc
+21713:BULLOCH - Bulloch Telephone
+11244:AMAG-ASN - AMAG Pharmaceuticals, Inc
+14672:CARROLL-NET - Carroll-Net, Inc.
+13798:BRIGHT - Brightfinity, LLC
+6025:DNIC-ASBLK-05800-06055 - DoD Network Information Center
+7862:CHEVRONTEXACO-7862 - Texaco Group, Inc.
+12064:ASN-CXA-HR-12064-CBS - Cox Communications Inc.
+33523:ROWANUNIVERSITY - Rowan University
+32148:KCLS - King County Library System
+4043:MIC-ASN - Montana Internet Corporation
+30444:OEU - Ocala Electric Utility
+21582:NAU-AS - Northern Arizona University
+6367:EMBARQ-KLLN - Embarq Corporation
+19783:APPRISS - APPRISS INC
+13693:NTS-ONLINE - NTS Communications
+22364:AS-22364 - Telefonica USA, Inc.
+1566:DNIC-ASBLK-01550-01601 - DoD Network Information Center
+7345:LUCENTTECH - Alcatel-Lucent
+31881:MTNINC - MTN (Maritime Telecommunications Network)
+46455:NLI-ISP - Network Lubbock, Inc.
+16807:IBM-EI - IBM - Events Infrastructure
+22613:NDCHEALTH-PHX - Source Healthcare Analytics, Inc.
+14639:ALLEGIANCE-AS1 - Allegiance Healthcare Corporation
+3681:FIU - Florida International University
+30628:RRBUSINESSCINTI - Road Runner Business Cincinnati
+46339:AS-CSDVRS - CSDVRS, LLC
+17230:ATT-CERFNET-BLOCK - AT&T Enhanced Network Services
+11827:WSU-AS - Washington State University
+7106:OHIOBRIGHTNET - Com Net, Inc.
+17017:DYNAMO-SERVERS - Dynamo Servers
+11976:FIDN - Fidelity Communication International Inc.
+3714:KEC-NET - Kentucky Educational Computing Network
+11795:989STUDIOS - Sony Computer Entertainment America LLC
+17113:COMMRAIL - Access Northeast Inc.
+40789:CAMPUS-VILLAGE-TECHNOLOGY-SERVICES - Campus Village Technology Services
+29919:FAIRBANKSCAPITALCORP - FAIRBANKS CAPITOL CORP
+36800:COOPERATIVE-HOME-CARE-ASSOCIATES - Cooperative Home Care Associates
+3379:KAISER-NCAL - Kaiser Foundation Health Plan
+25775:GLADSON-LISLE - Gladson, LLC
+33726:GENEVACOLLEGE-AS - GENEVA COLLEGE
+54933:AUSTINISD-AS-1 - Austin Independent School District
+13373:MEDCO - Medco Health Solutions, Inc
+11776:ATLANTICBB-JOHNSTOWN - Atlantic Broadband Finance, LLC
+40551:ATVI-NETWORK-ASN - Activision Publishing, Inc.
+21690:MILESTECHINC - Miles Technologies Inc
+23496:CAMBIAHEALTH - Regence Blue Cross Blue Shield of Oregon
+40285:NORTHLAND-CABLE - NORTHLAND CABLE TELEVISION INC.
+22632:DAKPRO - DakotaPro.biz
+21926:TREASUREISLAND-ASN1 - Treasure Island Colocation, LLC
+36075:SPACELABS - SpaceLabs Medical
+23465:NUTELECOM - NU-Telecom
+29930:TWRS-CBB - Towerstream I, Inc.
+22432:INSURANCE-DATA-PROCESSING - INSURANCE DATA PROCESSING, INC.
+17374:WALMART - WALMART.COM
+14701:ELEMENTEK - Peak Colo
+15320:PRIMELINK - PRIMELINK INC
+3700:CLOUD9 - Cloud 9 Internet, Inc.
+3146:DMSSC - Scientific Application International Corp. (SAIC)
+25752:METHEAN-AS25752 - Methean Professional, LLC
+55034:IGGCOM - IGG.COM
+17326:CONCORDIA-COLLEGE - Concordia College
+1661:ANS-ATLANTA - ANS Communications
+10660:SYSNET-AS - SYSNET Communications
+26646:TRAVELCLICKCORP1 - TravelCLICK Inc.
+26144:FISERV-EFT - Fiserv Solutions, Inc.
+14909:PNG-TELECOM - PowerNet Global Communications
+341:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+32706:RHINO-XANADOO2 - JAB Wireless, INC.
+13518:CDAC-AS-1 - COMMUNICATIONS DESIGN ACQUISITION CORPORATION
+1475:DNIC-ASBLK-01474-01477 - Headquarters, USAISC
+32720:CANON-ASN - Canon USA Inc.
+40692:JCAM-ASN - James Caird Asset Management (U.S.), LP
+23314:ORLANDOTELCO - Summit Broadband
+7883:UNITEDSYSTEMSACCESS - United Systems Access
+36224:HCLTA94085 - HCL AMERICA INC
+16931:GLOBAL-PAYMENTS-1 - Global Payments, Inc.
+4905:FA-LAX-1 - Future Ads LLC
+32537:XILINX - Xilinx Incorporated
+23033:WOWRACK Routing from Hyper to Wowrack
+20396:FIDMXV15 - The Fashion Institute of Design and Merchandising
+3777:HAVERFORD - Haverford College
+40579:TWRS-DAL - Towerstream I, Inc.
+19397:ACN-DIGITAL-PHONE - ACN
+22904:WSITS - Winning Strategies ITS
+1201:ASN-ODU-AS-AS - Old Dominion University
+19229:IFOXNETODPD - INFOCROSSING, INC.
+4314:XFONE-ASN1 - XFone USA, Inc.
+42:PCH PCH
+13583:ACCESS-TECH - Access Technology, Inc.
+40309:WB - Viasat Communications Inc.
+22990:ALBANYEDU - The University at Albany
+40252:CLEVELAND-MUNICIPAL-SCHOOL-DISTRICT - Cleveland Municipal School District
+26202:KINEX-NETWORKING - Kinex Networking Solutions, Inc.
+2769:NEBRASKA - State of Nebraska, DAS, Division of Communications
+16700:ROSENET-1 - City of Thomasville Utilities
+6296:MIND - InfoStructure
+19464:WASHINGTON-AND-LEE - Washington & Lee University
+25605:SCANSAFE Cisco Scansafe Division
+11396:TWC-ASN - Williams Information Services Corporation
+53380:LGCNS-AS - LG CNS America Inc.
+15083:INFOLINK-MIA-US - Infolink
+17049:MBO-NET - MBO Video, LLC
+7281:BOOZ-AS - Booz Allen Hamilton Inc.
+27473:CORESPACE-DAL2 - CoreSpace, Inc.
+15136:AS-NSPOF - NSPOF Communications Inc
+12112:HICKORYTECH - HickoryTech Corporation
+17311:ECMC-BGP - Erie County Medical Center
+16403:BOISE-CASCADE - Boise Cascade Corporation
+40399:BROADCORE-AS - Broadcore
+18553:UWF-ASN - University of West Florida
+40430:COLO4JAX-AS - colo4jax, LLC
+15054:NORTHEAST-TEXAS-BROADBAND-LLC - Northeast Texas Broadband, LLC
+11205:CITY-OF-PHILADELPHIA - City of Philadelphia
+26385:FLETCHER-ALLEN-HEALTH-CARE-1 - Fletcher Allen Health Care
+5961:DNIC-ASBLK-05800-06055 - DoD Network Information Center
+19176:PAISP - PaISP Inc.
+17071:UBSW-STAMFORD - UBS AG
+26805:FHLB - Federal Home Loan Bank of San Francisco
+11507:COBALTNAP - Cobalt Data Centers
+33597:INFORELAY - InfoRelay Online Systems, Inc.
+26298:NET-BCBSF-ASN - Blue Cross Blue Shield of Florida, Inc.
+19019:AS-COSENTRY-COM-1 - COSENTRY.NET, LLC
+3800:IONITY - Ionity Corporation
+13941:VISP - Visp Technologies, Inc.
+25795:ARPNET - ARP NETWORKS, INC.
+55217:TBRAS1 - Tiburon Web Hosting
+22936:ESCHELON-180 - Integra Telecom, Inc.
+14174:NCKCN - North Central Kansas Community Network Co.
+22834:BOSTONCOLLEGE - Boston College
+53446:EVMS - Eastern Virginia Medical School
+46740:ITCMED - International Technidyne Corp
+14793:API-DIGITAL - API Digital Communications Group, LLC
+19800:GCPUD-ORG - Grant County Public Utility District
+25694:ATOMIC - Atomic Data Centers LLC
+13684:ASN-MEDTRONIC-1 - Medtronic, Incorporated
+22243:CENTRACOMM - CentraComm Communications
+53577:URSINUS - Ursinus College
+36311:AEM-AS - American Equity Mortgage, Inc.
+15239:CIBER-TELEHOUSE-NET - CIBER INC.
+32825:24-7-AS-DEV-001 - 24/7 Customer, Inc.
+11473:WCOILASN - West Central Ohio Internet Link
+13760:SOUTHERN-LIGHT - Southern Light, LLC
+23068:MEIJERNET - MEIJER
+22853:EMULEX-1 - EMULEX CORP
+14245:SEGAOADC - Sega of America, Inc.
+46539:HOU-ARG - ARG Services, Inc.
+26819:TOIBGP1 - Telos Online, Inc
+32255:PPLNET-AS - PPL Corporation
+26442:DNB-US - Dun & Bradstreet
+53828:NITEL - NETWORK INNOVATIONS, INC.
+18985:GAPINC-NET - GAP, Inc.
+32226:MENARD-INC - Menard, Inc.
+14902:AS-ACTIV - ACTIV Financial Systems, Inc.
+19443:STAPLES - Staples, Inc
+14743:INTERNAP-BLOCK-4 - Internap Network Services Corporation
+12167:OMEGA - Omega Communications, Inc.
+46664:VOLUMEDRIVE - VolumeDrive
+40155:APLLI - APL Limited
+101:WASH-NSF-AS - University of Washington
+11403:NYINTERNET - The New York Internet Company
+10887:BPSI-AS - BPSI Internet Services
+19870:CCSD - Cherry Creek School District
+23369:SCOE - Sonoma County Office of Education
+36529:AXXA-RACKCO - Rackco.com
+14376:SSF-12-6-198-0 - Sungard Securities Finance, Inc.
+54542:K-DATA01 - K-Data Systems, LLC
+54188:HLIOP-ASN - HLI Operating Company, Inc.
+32417:ELONU-AS - Elon University
+11085:PDI-HQ-INET - Premier Designs, Inc
+26566:ARETTA - Aretta Communications, Inc.
+19149:TEAMTECH-DSM - TEAM Technologies LLC.
+18964:AHSSSCI - Adventist Health Systems SSCI
+19933:BUFFALOSTATE - Buffalo State College
+8137:DISNEYONLINE-AS - Disney Online
+310:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+55193:NGL-EVANSTON-MAIN - THE NGL CONNECTION LLC
+11980:BDO-SEIDMAN - BDO USA, LLP
+1378:IBEL - Interbel Telephone Cooperative, Inc.
+7045:WEATHER - THE WEATHER CHANNEL
+1705:HPES - Hewlett-Packard Company
+22635:US-MA-DEDHAM - AliMed, Inc.
+14217:DATAFRAMELO - Dataframe Logistics, Inc.
+36279:MISERI-COLLEGE-1 - College Misericordia
+6498:WEST-NGN - West Corporation
+8057:VISIONNET - Vision Net, Inc.
+54288:SOLIDTOOLSINC - SolidTools Technology, Inc.
+16818:CORESYS - Core Services
+46736:GLAMMLA8000 - Glam Media, Inc.
+22854:CATAWBA-COLLEGE - Catawba College
+32634:FULL-SERVICE-NETWORK - Full Service Computing Corp
+15011:JAGUAR-1 - Jaguar Communications
+22593:BCBSNC-AS - Blue Cross and Blue Shield of North Carolina
+6485:TDSC1-ASN - Track Data Corp
+14878:PIXIUS-AS - Pixius Communications, LLC
+40583:COLUMBIAGORGE-ESD - Columbia Gorge Education Service District
+17088:CURRENEX - Currenex, Inc.
+1480:DNIC-AS-01480 - Headquarters, USAISC
+26254:568721-017489901135-1 - Mail2world INC.
+11961:MIDRIVERS - Mid-Rivers Telephone Cooperative
+27229:WEBHOST-ASN1 - Webhosting.Net, Inc.
+15244:ADDD2NET-COM-INC-DBA-LUNARPAGES - Lunar Pages
+46262:RTASN - ResTech Services LLC
+11404:AS-VOBIZ - vanoppen.biz LLC
+30705:TELIRIS - Teliris Inc.
+13483:INFOR-AS13483 - INFOR GLOBAL SOLUTIONS (MICHIGAN), INC.
+13821:ACML - AllianceBernstein L.P.
+6263:NDIN - State of North Dakota
+14858:HISNET - Hanson Information Systems, Inc. / Family Net
+27611:AS-NATIVEHOSTING - Native Hosting, Inc.
+5105:ATTIS-ASN5105 - AT&T Internet Services
+30237:CHANEYSYS - Chaney Systems, Inc.
+17373:MCI-COV - MCI WorldCom
+27204:NCW-AS - NewCore Wireless, LLC
+57:UMN-REI-UC - University of Minnesota
+19230:NANOG - NANOG
+20313:SMSI - Smith Micro Software, Inc.
+12223:AS-EQUIVOICE-COM - Equivoice LLC
+33670:NOVASOUTHEASTERNAS - Nova University
+340:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+20193:SINEWAVE - SineWave Technologies, Inc.
+40695:FHLB-OF - FHLBanks - Office of Finance
+11326:ASN-EASTMAN-CHEMICAL - Eastman Chemical Company
+10525:SIMON-SCHUSTER - Simon & Schuster
+30043:RBAND-AS30043 - Resort Broadband, LLC.
+20413:CCIU-1 - Chester County Intermediate Unit
+27141:DNIC-ASBLK-27032-27159 - DoD Network Information Center
+32629:CITY-OF-CHARLOTTE-ASN - City of Charlotte
+40010:CPS-SALEM-NH - Chase Paymentech Solutions, LLC
+22178:PA-SENATE - Senate of Pennsylvania
+46231:OMNICITY - Omnicity, Inc.
+19581:DALLAS-COUNTY - DALLAS COUNTY SCHOOLS
+15082:VAZIONET - Vazio Network Services, LLC
+19976:REALPAGE-STARFIRE - Real Page, Inc.
+22992:SECUREWORKS - SecureWorks Inc.
+18530:ISOMEDIA-1 - Isomedia, Inc.
+1531:DNIC-AS-01531 - Headquarters, USAISC
+32282:CVNS48334 - COVANSYS
+2714:GSA-GOV - General Services Administration
+5656:ACCESSUS-DOM - accessU.S./BASENet
+22671:AAAS - American Association for the Advancement of Science
+27552:TWDX TOWARDEX Carrier Services IP TRANSIT BACKBONE
+14594:CONFLUENT - ConfluentASP
+11452:MOUNT-SINAI - Mount Sinai School of Medicine
+21730:RRV-NET - Halstad Telephone Company
+39939:SKYBEAM-39939 - JAB Wireless, INC.
+11198:APC - American Power Conversion
+693:NOTRE-DAME-AS - University of Notre Dame
+33191:IMEDGE - IMedge, LLC
+20049:LINKEDIN - LinkedIn Corporation
+7265:WOW-INTERNET - WideOpenWest Finance LLC
+27206:ADPSIS-AS - ADP BROKERAGE INFORMATION SERVICE
+15084:CONVERGYS - Convergys Corp.
+4492:COMMSPEED1 - CommSpeed LLC
+26925:SMARTCITY-DCCC - Smart City Networks, L.P.
+53264:CDC-LMB1 - Continuum Data Centers, LLC.
+32035:CCDT-AS - Telekenex Inc
+54627:SWEETWATER-TV - Sweetwater Television Company
+54049:HIPAAS - Hipaa Networks LLC
+22213:SALK-AS - Salk Institute
+30362:HPT-ASN - Hawaii Pacific Teleport LP
+32869:SILVERSTAR-NET - Silver Star Telecom, LLC
+12103:KEYNOTE - Keynote Systems, Inc.
+12069:REV-NET-TECHNOLOGIES - Rev.Net Technologies
+19072:OFFICEMAX - OfficeMax
+16559:REALCONNECT-01 - RealConnect, Inc
+55243:CEDARNET - Cedar Wireless, Inc.
+6056:COLBY - Colby College
+44:S1-DOMAIN - Lawrence Livermore National Laboratory
+23329:AS-OPENACCESS - Open Access Inc.
+22970:MAINETECHCOLLEGESYS - Maine Technical College System
+17226:ATT-CERFNET-BLOCK - AT&T Enhanced Network Services
+4581:SOCKET - Socket Internet Services Corporation
+36213:DWASKG - DreamWorks Animation SKG, Inc.
+32632:VAULT-NETWORKS - Vault Networks, Inc.
+32948:LLS-HO-AS - LEUKEMIA & LYMPHOMA SOCIETY
+33310:GLORB - Glorb Internet Services
+3585:AS3585 - Tyco Electronics Corporation
+16793:DATA-TRONICS - Data-Tronics Corp
+19391:BAJAU-CO-NM-TX - Baja Broadband
+53949:BCT-AS1 - Benton Cooperative Telephone Company
+17151:VONAGE - Vonage Holdings, Inc.
+36430:SERVEPATH-ANYCAST - GoGrid, LLC
+19181:CWIE - CWIE LLC
+15094:KNOW-TECHNOLOGY - Know Technology, LLC
+30373:BUSINESSONLYBROADBANDLLC - Business Only Broadband
+18977:MAIN - Reliable-ISP
+26265:H3NET - Hypercube LLC
+8008:ETC-60-AS - ENHANCED TELECOMMUNICATIONS CORP.
+10517:MELLONBANK - Mellon Bank
+32408:SMHCOLOCATION - SMH Colocation
+35980:NAS-AS - NAS Recruitment Communications
+46672:COLO5 - Colo5, LLC
+19675:VCS-AS - Virtacore Systems Inc
+55262:GRIZZLY-INTERNET-INC - Grizzly Internet, Inc
+26096:LODDEN - Lodden Services
+13783:RADFORD-UNIV-AS - Radford University
+40829:ALAS-CHI - Attorneys_ Liability Assurance Society, Inc.
+14976:SMART-CITY-DENVER - Smart City Networks, L.P.
+1747:IBMWATSON-AS - IBM T.J. Watson Research Center
+22883:CONDENAST - CondeNast Publications
+36368:OBERLIN-COLLEGE - Oberlin College
+18937:NMC - National Monitoring Center
+11228:ARINC - ARINC, Inc.
+27431:JTLNET - JTL Networks Inc.
+19479:CERVALIS - CERVALIS LLC
+32955:MURCOM - MURCOM, LLC
+53695:SIUE - Southern Illinois University at Edwardsville
+6245:NETWORK-SOLUTIONS - InterNIC Registration Services
+15298:LSB-INDUSTRIES-INC - LSB Industries, Inc.
+19496:SBCASI-AKRON-OH-COVLIL - AT&T Internet Services
+26561:BLUEWATER-DR - BlueWater Communications Group
+47038:DMCI-BROADBAND - DMCI Broadband, LLC.
+22647:ELLTEL - Fairpoint Communications
+13389:AZUKI - AZUKI, LLC
+32152:CCNBI-AS1 - CCNBI, Inc
+11878:TZULO - tzulo, inc.
+46930:ASN-DPSD - Denver Public Schools
+10962:SMS-CORP-ASN - Siemens Medical Solutions Health Services Corporation
+7142:AZSTARNET - TUCSON NEWSPAPERS
+19963:DOSUB-1 - Dutchess County BOCES
+25979:COMDC-WI - CITY OF MADISON
+40694:KDDI-GLOBAL - KDDI Global, L.L.C.
+1254:NASA-LARC-AS - National Aeronautics and Space Administration
+23372:IDCGLOBAL - IDC Global Networks Inc.
+14134:NAVISITE-WEST-2 - Navisite, Inc.
+26760:SKTC-NET - Southern Kansas Telephone Co., Inc.
+5953:DNIC-ASBLK-05800-06055 - DoD Network Information Center
+30212:HYPERMEDIA-SYSTEMS - Hypermedia Systems, Inc.
+46282:VIRTELA-CUST-VTXDAL1-VCOENG1-AVAILL Virtela Communications
+25650:IONWPB - ION MEDIA NETWORKS
+13446:AS-NETZERO - Netzero,INC.
+36820:TULIP-SYSTEMS-INC-HOSTING-55-MARIETTA-ATLANTA - TULIP SYSTEMS, INC.
+33481:BELWAVE-COMMUNICATIONS - BELWAVE COMMUNICATIONS
+32570:CANYONCOUNTRY - Canyon Country Communications, Inc.
+46945:ELITEHOSTS - Elite Hosts, Inc.
+25664:SOLANOCOE - Solano County Office of Education
+7256:VIACOM-AS - Viacom Inc.
+8062:BELLSOUTH-NET-BLK3 - Bellsouth.Net
+17218:AS-DIGITAL-HIGHWAY-LLC - Digital Highway, LLC
+29870:CASCADE-NETWORKS-INCORPORATED - Cascade Networks Incorporated
+17356:VERMONT-TELE - Vermont Telephone Company, Inc.
+16837:VABB - VIRGINIA BROADBAND LLC
+2640:AMESLAB-AS - Ames Laboratory
+27052:DNIC-ASBLK-27032-27159 - DoD Network Information Center
+12054:ALAMEDACOUNTYDATAPROCESSING - Alameda County
+46778:PHSI-1996 - Prevea Health Services Inc
+32875:VIRPUS - DNSSLAVE.COM
+1317:DNIC-AS-01317 - Navy Network Information Center (NNIC)
+13371:DUKE-INTERCHANGE - Duke University
+40310:WB - Viasat Communications Inc.
+21701:TRUVEN-HEALTH-ANALYTICS-AS - Solucient, LLC
+13695:AEP - American Electirc Power Co.
+11996:LOBOIS - Lobo Internet Services, Ltd
+11424:FCCC-EDU - Fox Chase Cancer Center
+11123:UIA - Ultimate Internet Access, Inc
+11520:ALLSTATE-INSURANCE-CO - Allstate Insurance Company
+26640:2901 - Oso Grande Technologies, Inc.
+14263:SD-NET - South Dakota State Government
+20248:TAKE2 - Take 2 Hosting, Inc.
+10421:TTUNET - Texas Tech University
+17103:JRC-NETWORK-SERVICES - Jensen Research Corporation
+46269:KRONOS-MA - Kronos Inc.
+26305:ASN-SSM - SSM Health Care
+3728:ONR-ADDR - Onramp Access Inc.
+23137:RTI-ASN - Round Table Investments, Inc.
+29896:INNOVATIVE-INTERFACES-INC-2 - Innovative Interfaces, Inc.
+21708:SDCOE - San Diego County Office of Education
+40244:TURNKEY-INTERNET - Turnkey Internet Inc.
+21856:NOKIA-FINLAND NOKIA Corporation
+18632:VOLCANO-NET - Volcano Internet provider
+19606:NIELSEN-MEDIA-RESEARCH - Nielsen Media Research Inc.
+13368:JCP - James Cable, LLC
+25700:25700 - SWIFT VENTURES Inc
+26689:LIGHTPOINT-COMMUNICATIONS - LIGHTPOINT COLOCATION & HOSTING LLC
+14733:AS14733 - Barclays Capital Inc.
+23296:LINCARE-HOLDINGS-INC - LINCARE INC
+13614:ALLWEST - All West Communications, Inc.
+22847:BOWDOIN - Bowdoin College
+11368:CMH-ASN - CaroNet Managed Hosting, Inc.
+16612:PRIME-AS - Prime Alliance Solutions, Inc.
+46836:VRCT-ATL - SunGard VeriCenter Inc
+26438:MONROE-COMMUNITY-COLLEGE - Monroe Community College
+3482:MTSTGOV - State of Montana
+31815:MEDIATEMPLE - Media Temple, Inc.
+32666:CWRU-AS-1 - Case Western Reserve University
+27221:ARDMORE-TEL - Ardmore Telephone Company Inc.
+22438:CLEAR-RATE-COMMUNICATIONS - Clear Rate Communications, Inc.
+11094:ASN-UMDNJ - University of Medicine & Dentistry of New Jersey
+33281:BRIGHAM-YOUNG-UNIVERSITY-IDAHO - BRIGHAM YOUNG UNIVERSITY - IDAHO
+1525:DNIC-ASBLK-01522-01526 - Headquarters, USAISC
+21984:FCPS - Fairfax County Public Schools
+32337:NOWCOM-BGP - Nowcom Corporation
+40246:NMSU - New Mexico State University
+1559:DNIC-ASBLK-01550-01601 - DoD Network Information Center
+33717:CHT-GLOBAL - Chunghwa Telecom Global, INC
+3659:CLAREMONT - Claremont University Consortium
+25807:ARLINGTONVA - Arlington County Government
+14127:ILAND - Iland Internet Solutions Corporation
+2824:DB-NA-1 - Deutsche Bank
+10439:CARINET - CariNet, Inc.
+40805:JMFSOLUTIONS - JMF Solutions, Inc
+32945:TECONECTAMOS - Te Conectamos, LLC
+36809:COCG---CITY-OF-CORAL-GABLES - City of Coral Gables
+15117:ANHEUSER-BUSCH - Anheuser-Busch Companies Inc.
+39999:POLK-COUNTY-PUBLIC-SCHOOLS - Polk County Public Schools
+10806:AFP-NET - AGENCE FRANCE PRESSE
+26134:BROAD-RUN-BORDER-AS - VeriSign Infrastructure & Operations
+32890:BTC-AS-1 - Beehive Telephone Company, Inc.
+29874:CAMBRIDGE-GLOBAL - Cambridge Associates
+22030:ZIPCON-AS-1 - Zipcon
+23265:POCKETINET - Pocketinet Communications, Inc
+13793:T3VOICENET - T3 VoiceNet, LLC.
+25612:DSL-EXPRESS - DSL EXPRESS
+320:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+40388:CODALE - CODALE ELECTRIC SUPPLY INC
+21595:BAXTER BAXTER SERVICES EUROPE SA
+14852:DCX - DaimlerChrysler Corporation
+16433:NCTC-ISP - North Central Communications
+31838:OPNET - OPNET Technologies
+21832:KELLINCOM-1 - Kellin Communications
+11616:PEAPOD - Peapod, Inc.
+40311:WB - Viasat Communications Inc.
+29705:MOTIVE-COMMUNICATIONS-INCORPORATED - MOTIVE, INC.
+26785:NETWURX-AS - Netwurx LLC
+317:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+4543:TIMESNET - The New York Times Company
+14574:RTCCOM - RTC COMMUNICATIONS
+40878:ADNS-ASN - Advanced Data and Network Solutions, Inc.
+13776:QX-NET-ASN-1 - QX.Net
+46312:WAL-MART3 - Wal-Mart Stores, Inc.
+3851:SCS-NV - System Computing Services
+11018:GLOBALACCESS - NTT Multimedia Communications Laboratories
+31744:MULTIBAND-NEWHOPE - Multiband
+33170:MORGAN-STATE-UNIVERSITY - Morgan State University
+3783:AIU-GATEWAY - Allegheny Intermediate Unit
+46303:POPP-COM - POPP.com, Inc.
+22887:WIU-AS - Western Illinois University
+6303:BARCLAYS-CAPITAL - Barclays Capital
+19241:LOCAL-ISP-NJ-2000 - Local-ISP, Inc.
+46694:ASN-SPTC - South Plains Telephone Cooperative, Inc.
+4466:ASATTIDNS AT&T Global Network iDNS Service
+12033:ASN-ANW - Adams NetWorks, Inc.
+40005:CRAMER-IT - CRAMER IT CONSULTING, INC.
+10497:WORLDBANK - The World Bank Group
+98:ROCKEFELLER-AS - The Rockefeller University
+2544:METRO-AS - King County Gov
+8002:STEALTH-AS Stealth Communications
+11464:PTPL-2 - Philadelphia Technology Park, LLC
+46298:HCHD-AS - Harris County Hospital District
+22837:SWIFTCOMM-NET - Swiftcomm, Inc
+32694:HBCOMM - H&B Communications Inc.
+15085:IMMED-3 - Immedion, LLC
+46687:METROCAST-MD-NALBANY - MetroCast Cablevision of New Hampshire, LLC.
+4597:MILLIPORE - Millipore Corp.
+19260:GKTL-1-AS1 - Global Knowledge Training, LLC
+32066:JPMORGANCHASE JPMorganChase
+29917:KSC - Keene State College
+31828:SHU-AS-I2 - Seton Hall University
+18564:SJU149068 - St. John_s University, New York
+32151:POWERSPACE - POWERSPACE & SERVICES, INC.
+19625:CONXXUS - Conxxus, LLC
+11971:PFIZERNET-GROTON - PFIZER INC.
+36161:WESTCHESTERCOUNTY-NY - County of Westchester
+26790:SPHEREXX - Spherexx.com
+14418:DTCC-AS1 - Depository Trust & Clearing Corporation
+12018:OOCL-SJC - OOCL (USA), Inc.
+1975:PROQUEST-AS - PROQUEST LLC
+11788:BAJAU-CO-NM-TX - Baja Broadband
+18866:ATJEU - atjeu publishing, llc
+7015:COMCAST-7015 - Comcast Cable Communications Holdings, Inc
+11648:TECH-AM-AS - Technicolor, Inc.
+15164:UPNLLC - Unite Private Networks LLC.
+13536:TVC-AS1 - Tech Valley Communications
+13539:ASAP-BGP-60089 - ASAP Software Express, Inc.
+32532:KMC-37-ASN - Kuakini Medical Center
+14626:COLUMBIA-HCA - Columbia/HCA Healthcare, Inc.
+7905:SOONER-AS - Sooner Technology
+19939:BCTELCO - Beaver Creek Telephone Company
+1798:OREGON - State of Oregon
+21897:VIRTUA-HEALTH - Virtua Health
+22516:INTER-RESPONSE - Interactive Response Technologies
+36129:YAHOO-MAVEN - Yahoo
+30029:DOBSONTECHTTS - Dobson Technologies - Transport and Telecom Solutions, LLC
+40723:UVA-WISE-AS - The University of Virginia_s College at Wise
+32897:CCPUD-NETWORKS - Chelan County Public Utility District No.1
+22978:GSU - Governors State University
+18888:AS-ZILLOW - ZILLOW, INC.
+54904:NCCML-01 - Nine Chapters Capital Management, LLC.
+3147:FIRSTBANK - FIRSTBANK
+30641:STATEOFDE - STATE OF DELAWARE
+13824:AZCI-NET - AZCI.net, LLC
+17189:DIGITALINGENUITY - Digital Ingenuity, Inc.
+12007:RAYASN - Raytheon Company
+30084:SRI-CONSULTING-BUSINESS-INTELLIGENCE - SRI Consulting Business Intelligence
+8076:HUD - Housing and Urban Development
+16660:FEBOX - FeBox LLC
+46276:SMARTERBROADBAND - SmarterBroadband
+18522:YUMBRANDS - Yum! Brands, Inc.
+36413:LOYOLA - Loyola University Maryland
+16727:WOW-INTERNET - WideOpenWest Finance LLC
+213:DNIC-AS-00213 - Headquarters, USAISC
+40545:EACC - Empire Access
+1625:CORESPACE - CoreSpace, Inc.
+1605:ALGT-HQNET - Allegiant Travel Company
+10867:FHDA-AS - Foothill-DeAnza Community College District
+10453:CNIWEB - CREATIVE NETWORK INNOVATIONS, INC.
+11550:SDL-20-AS - Smithville Digital, LLC
+10668:LEE-ASN - Lee Enterprises, Inc.
+149:DNIC-AS-00149 - DoD Network Information Center
+20077:IPNETZONE-ASN - IPNetZone
+10583:CHIME - Connecticut Hospital Assoc.
+22728:THINKSIS - Software Information Systems, LLC
+18741:SOUNDHOUND1 - SoundHound, Inc.
+11491:TRIVALENT-GROUP-NEW - Trivalent Group Inc.
+18456:GDIT-AS1 - General Dynamics Information Technology, Inc.
+16826:JCCC - Johnson County Community College
+40458:CMIGNET - CMFG Life Insurance Company
+7773:SD-NET - South Dakota State Government
+31825:STARWOOD-VO - Starwood Vacation Ownership
+30447:INFB2-AS - InternetNamesForBusiness.com
+32645:PIVOT - FAIRPOINT COMMUNICATIONS, INC.
+26958:ONCOR-1 - Oncor Electric Delivery Company, LLC
+21799:MWDSC - Metropolitan Water District of Southern California
+40405:BRAZORIA-INET - Brazoria INET
+13859:CERNER - Cerner Corporation
+32136:FARMINGDALESTATE - Farmingdale State College
+20377:MLODE-COM - Mother Lode Internet, LLC
+46281:COTEN-ASN - Cotendo Inc.
+14477:FLTG - FINGER LAKES TECHNOLOGIES GROUP, INC.
+53806:ASDUWLT - DELOITTE SERVICES - SLTC
+18818:LSUHSCS-NET2 - LSU Health Sciences Center - Shreveport
+30110:ADVANCED-COMMUNICATIONS-TECHNOLOGY - Advanced Communications Technology
+21560:NETSTREAM-COMMUNICATIONS - Netstream Communications, LLC
+36182:ZUBRCOM - Zubr Communications, LLC
+53250:ATLANTICBB-AIKEN - Atlantic Broadband Finance, LLC
+1562:DNIC-ASBLK-01550-01601 - DoD Network Information Center
+3720:TIMS-AS - The Internet Mainstreet, Inc.
+30588:NCSOFT - NCSoft Corp.
+26190:SENTRY - Sentry Insurance a Mutual Company
+22790:ACTWORLDNET - Advanced Computer Technologies, LLC
+17139:CORPCOLO - Corporate Colocation Inc.
+54177:ASN-SJFC - St. John Fisher College
+13765:NEDELCO - Nedelco Inc.
+23122:DSU - Dakota State University
+27139:DNIC-ASBLK-27032-27159 - DoD Network Information Center
+33695:SCALEMATRIX - ScaleMatrix
+36521:HOP-ASN-1 - H.O.P. Communications DBA airHOP
+19504:WTCC - WTC Communications, Inc.
+17047:CENTURYTELECOMM - CenturyTel Solutions, LLC
+14777:INKTOMI-LAWSON - Inktomi Corporation
+6597:AS-XILOGIX - Xilogix, LLC
+36037:EDUCATION-SERVICE-CENTER-REGION-20 - Education Service Center Region 20
+2928:COAT - Burlington Coat Factory Warehouse
+22303:NEWPALTZEDU - SUNY College at New Paltz
+14288:MPINET - MPInet
+22415:KASNET ASN-KASNET
+36295:FLORIDA-HIGH-SPEED-INTERNET - Florida High Speed Internet
+4195:DE-SHAW-AS DE SHAW
+26694:ADMIS-AS - Adm Investor Services, Inc
+11207:BOSTONGLOBENET - The Boston Globe
+27446:ERCWC-ASN - Education and Research Consortium of the Western Carolinas
+360:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+46964:BROADINSTITUTE-AS - The Broad Institute, Inc.
+1777:SAINT-XAVIER-UNIVERSITY-CHICAGO - Saint Xavier University
+33265:AS-DESIGNORY-INC - The Designory, INC.
+12013:FAUNET - Florida Atlantic University
+32360:MONROE-1-BOCES - Monroe
+7272:TCIMET - TCI Telephony Services
+32181:ASN-GIGENET - GigeNET
+40850:ENKI - ENKI, LLC
+30188:TELEVERGENCE - Televergence Solutions Inc.
+15129:TRICOM-IL - TRI COM
+23241:USA-ICS - big planet, inc.
+46219:CASHEDGE - CASHEDGE, INC.
+19721:MHN - Magellan Health Services
+40943:RURALBROADBAND - Rural Broadband, L.L.C.
+11783:BROOK-LAW - Brooklyn Law School
+32795:HEARST-SERVICE-CENTER - HEARST CORPORATION
+16648:PCSIA-NET - Professional Computer Solutions, Inc.
+30208:EDELMANAS-WDC - Edelman PR-Worldwide
+46923:ASN1 - Supporting Act Technologies, LLC
+6318:CHECKFREE - CheckFree Corporation
+11433:CURATEL - Curatel, LLC
+23316:BAI-IP-SERVICES - Bel Air Internet, LLC
+20042:GCEC-TECHNOLOGIES - GCEC Technologies
+13940:SJCOE - San Joaquin County Office of Education
+11067:PTSINET - Panhandle Telecommunications Systems, INC.
+20127:KLEINSCHMIDT - Kleinschmidt Inc.
+7301:NAS-AS - National Academy of Sciences
+26094:BTP - Baltimore Technology Park, LLC
+26279:ANCC - Advanced Networking and Communication Corporation
+15106:LENNOX - Lennox International Inc.
+39947:TMGHEALTH - TMG Health, Inc
+6405:AIN - American Information Network
+17347:PEPCO - Potomac Electric Power Company
+29748:CARPATHIA-ASN Carpathia Hosting
+25876:LADWP-INTERNET - Los Angeles Department of Water & Power
+371:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+26052:FORTIS-US - Fortis Clearing Chicago LLC
+23304:DATOTEL-STL-AS - Datotel LLC, a NetLabs LLC Company
+2496:UKANS - University of Kansas
+5061:CLEARBLUE-AS - ClearBlue Technologies
+7317:CSPS-AS - The First Church of Christ, Scientist
+10653:MVANET - USAI.NET
+23332:AS-JDASOFTRCKVLLE - JDA Software Group Inc.
+54903:SVLSA-AS - SV Life Sciences Advisers, LLC
+792:ORACLE-ASNBLOCK-ASN - Oracle Corporation
+7963:STDIO - OPEN WORLD, INC.
+36758:ASN-BBT-ASN - Branch Banking and Trust Company
+46957:WOI-1 - Wichita Online, Inc.
+21693:XCEL-ENERGY - Xcel Energy Inc.
+13367:COMCAST-13367 - Comcast Cable Communications Holdings, Inc
+19551:INCAPSULA Incapsula.com
+32132:INTEGRATEDSOLUTIONS - Integrated Computer Solutions
+16934:LEACO-INTERNET - Leaco Rural Telephone
+26311:DAVITA-CASITA - DAVITA INC
+18713:IBMCCH-SJO - IBM
+30008:COLOGUYS - ColoGuys, Inc.
+7068:PFIZERNET - PFIZER INC.
+31920:GEETEL-AS - Geetingsville Telephone Co., Inc.
+32719:BEPC-AS - Basin Electric Power Coop
+36476:WEB-COM-ASN1 - Web.com, Inc.
+33069:AS-BUSINESS-COMMUNICATIONS - BCI
+23100:CT-METROCAST-NET - MetroCast Communications of Connecticut, LLC
+26914:FUSIONSTORM-GNI - FusionStorm
+10607:ETHERN - Global Communications INTERNETworking Corp.
+7902:PINS - Public Interest Network Services
+22747:TCIS - TulsaConnect, LLC
+22504:LORETTOCOMM - LORETTO COMMUNICATION SERVICES, INC.
+17161:MARSH Marsh Inc.
+10910:INTERNAP-BLK - Internap Network Services Corporation
+22556:BLACKBOARD - Blackboard Inc.
+32601:ACUNET-2 - Abilene Christian University
+32391:SRCACCESS - SANTA ROSA TELEPHONE COOPERATIVE INC
+323:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+53598:NJH-DENVER - National Jewish Medical and Research Center Corporation
+10955:WILPATERSON - WILLIAM PATERSON UNIVERSITY
+54831:YM-TOR - Yesmail Inc
+22588:DOMIN-AS - DOMINION ENTERPRISES
+21523:LEASENET - LeaseNet, Inc.
+36799:CUBIC-AS - Cubic Corporation
+15009:UNISYS-OUTSOURCING - Unisys Corporation
+23532:YADA - Vergent Communications, LLC
+46192:SWBC-ASN - SWBC
+46580:MERICLE-AS - Mericle Construction Inc.
+2384:AOCNET - Architect of the Capitol
+46404:SUNESYS - Sunesys, LLC
+18834:NETWORKIP - Network IP
+7276:UNIVERSITY-OF-HOUSTON - University of Houston
+26651:CAREFUSION-AS - CareFusion Corporation
+25691:CTSTATEU - Connecticut State University System
+11459:THE-TENNESSEAN-GANNETT-SATELLITE-NASHVILLE - the Tennessean, a division of Gannett Satellite Information Network, Inc.
+30653:EXOBIT - Exobit Networks Inc.
+16467:ASN-NEXTWEB-R1 - Nextweb, Inc
+14559:BRTCC - Ballard Rural Telephone Cooperative Corporation Inc.
+30633:LEASEWEB-US - Leaseweb USA, Inc.
+32915:KATTARE - Kattare Internet Services
+5009:ADVTEL - EATEL
+32508:GSINET - Granite State Long Distance, Inc.
+13345:ROCKYNET-COM - Rockynet.com, Inc
+15140:HAWKEYECOLLEGE - Hawkeye Community College
+7030:EXWIRE - Exwire, Inc.
+35994:AKAMAI-AS - Akamai Technologies, Inc.
+31902:OTS - Open Technology Solutions
+36408:CDNETWORKSUS-02 CDNetworks Inc.
+1:LVLT-1 - Level 3 Communications, Inc.
+4451:ASN1 - 1199SEIU National Benefit Funds
+15173:NEWMA-11 - Newmarket Corporation
+20374:FOX-INC - Fox Entertainment Group, Inc.
+13527:99MAIN - 99MAIN NETWORK SERVICES
+23505:ECG-CHARLOTTE - Ecommerce Group, Inc. - Charlotte
+21598:DUKE-ENERGY-ENERGY - Duke Energy Corporation
+6221:USCYBERSITES - US Cybersites, Inc
+46458:SAVINGCALL - Saving Call LLC
+33647:YADTELNET - Yadkin Valley Telephone
+16609:THE-AERO-GROUP-AS16609 - The Aero Group, Inc.
+6481:SWRI - Southwest Research Institute
+11499:WHOI-WOODSHOLE - Woods Hole Oceanographic Institution
+1519:DNIC-AS-01519 - Headquarters, USAISC
+21782:PLATEAU - Plateau Telecommunications Incorporated
+13788:USCOURTS - US Courts
+6652:PIMA-COLLEGE - Pima Community College
+13825:TROYCABLE-NET - Troy Cablevision, Inc.
+2033:PANIX - Panix Network Information Center
+18675:FNW-FOWLERVILLE - FreedomNet
+40306:WB - Viasat Communications Inc.
+21828:TCOE - Tulare County Office of Education
+40248:CSL0-AS - County of San Luis Obispo
+19720:CABLEVISION-CORP - Cablevision Systems Corp.
+14333:ON-RAMP-INDIANA - On-Ramp Indiana, Inc.
+27183:NSD417 - Northshore School District
+6582:FRII - Front Range Internet Inc.
+4547:BLS-AS - Bureau of Labor Statistics
+5109:HT-IDS5109 - HuntTel
+16803:MYAKKATECH1 - Myakka Technologies, Inc.
+4046:FAA - Federal Aviation Administration
+26773:DATAVO-AS - Datavo Inc.
+3663:NETNET-NET - NetNet
+32215:SVVSD - SVVSD
+7286:PBI-NET-BLK2 - AT&T Internet Services
+18557:HAWKCOMM - Hawk Communications
+6947:AMCITY - American City Business Journals
+12081:GREENHECK - Greenheck Fan
+18990:AIRBAND-DALLAS - Airband Communications, Inc
+18806:ONENECK-IT-SERVICES-TDC-AS - OneNeck IT Services Corporation
+32083:OMNISPRING - Omnispring, LLC
+13515:PBA - Palm Beach Atlantic University
+14398:AUTODESK - Autodesk, Inc.
+14745:INTERNAP-BLOCK-4 - Internap Network Services Corporation
+11841:LINKLINE - LinkLINE Communications, Inc.
+33650:COMCAST-33650 - Comcast Cable Communications, Inc.
+46343:PCM-BOYERTOWN - PC Management, Inc.
+31890:QUICKENLOANS - Quicken Loans Inc.
+5974:DNIC-ASBLK-05800-06055 - DoD Network Information Center
+15170:MATCHNET - Spark Networks Limited
+10627:CP-AS-AS10627 - Critical Path Inc.
+46347:CAROLINAWEST-WIRELESS - Carolina West Wireless
+16595:TORO - The Toro Company
+40518:MANOR-CARE - HCR Manorcare
+10444:ZIONS-MANAGMENT-SERVICES-COMPANY - Zions Management Services Company
+15133:EDGECAST - EdgeCast Networks, Inc.
+31746:FANDM - Franklin and Marshall College
+36492:GOOGLEWIFI - Google, Inc.
+16839:SNC Service-now.com AS Number
+25660:CTC - Champaign Telephone Company, INC.
+20343:PEPPERDINE - Pepperdine University
+18:UTEXAS - University of Texas at Austin
+366:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+6379:ALINK - A-Link Network Services, Inc.
+17216:DC74-AS - DC74 LLC
+29838:AMC - Atlantic Metro Communications
+11769:MOBILENETICS-LA-GW1 - Mobilenetics Corporation
+27203:TRIHEALTH-1 - Trihealth
+36831:XAVIER-UNIVERSITY - Xavier University
+6363:ENTERASYS-NETWORKS - Enterasys Networks
+30499:YSU-AS - Youngstown State University
+21694:FRESNOCOE - Fresno County Office of Education
+54714:SECGLOBE - Secure Global Solutions LLC
+25968:SELUNET - Southeastern Louisiana University
+21531:CTUSA-NET - Multiband
+12031:LORD-CORP-CARY - Lord Corporation
+19550:SIHOPE-AS - Sihope Communications
+12282:GMA - Selectronics Corp.
+7341:VELOCITY - Velocity Network, Inc.
+19647:HPOD20001 - Hewlett-Packard Operation Division
+10499:IUMC-IT - Rochester Gas and Electric Corporation
+1985:DNIC-AS-01985 - Navy Network Information Center (NNIC)
+26721:SILVERCIRCUIT - Silver Circuit, LLC
+53358:INTEGRATED-COMPONENTS - Integrated Components, Inc.
+53832:ASN-BOYCOM - Boycom Cablevision
+46510:ACS-EDUCATION-SERVICES - ACS Education Services
+20336:NYSDOT - New York State Department of Transportation
+22252:AS22252 - The City of New York
+20442:YNHHSC - Yale-New Haven Health Services Corporation
+10944:ABAG-CSG - Association of Bay Area Governments
+32513:BATTELLE-MEMORIAL-INSTITUTE - BATTELLE MEMORIAL INSTITUTE
+6406:CEBAF - Continuous Electron Beam Accelerator Facility
+1494:DNIC-ASBLK-01494-01495 - Headquarters, USAISC
+3901:ARRAKIS - M & A Properties, LLC
+13807:GREAT-PLAINS-COMMUNICATIONS - GREAT PLAINS COMMUNICATIONS INC
+372:NSN-AMES-AS - National Aeronautics and Space Administration
+33734:MPW-MACHLINK-NET - Muscatine Power and Water
+21547:OXNET - Oxford Networks
+1261:NATINST-AS-AS - National Instruments Corporation
+11759:CANINE-COMPANIES - The Canine Companies Inc.
+26128:AS-360WISP - 360 Communications, LLC
+32444:SAFELINK-JEROME1ASN - Safelink Internet
+17324:ALNET - Albert Einstein College of Medicine
+33569:ALLHOSTSHOP - ALLHOSTSHOP.COM
+3770:WORLDPATH-AS - WorldPath Internet Services
+14677:CLICK-NETWORK - City of Tacoma
+16948:STRATUSWAVE - StratusWave Communications
+10835:VISIONARY - Visionary Communications, Inc.
+7054:MERCK AS FOR MERCK
+339:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+33739:MYSPACE - Myspace, Inc.
+54510:GEOVERA - Geovera Holdings, Inc.
+46226:ACCIONA-ENERGY - Acciona Energy North America Corporation
+26942:HOSTING-COM-ARIN - WCP/32POINTS INTERMEDIATE HOLDING COMPANY, INC.
+14022:BBCOM - Backbone Communications, Inc.
+46870:NJRNET-2009 - New Jersey Resources
+579:C4DR2 - Glynlyon
+7346:SPIRITONE - Spirit One, Inc.
+26153:BCBSSC - Blue Cross Blue Shield of South Carolina
+22768:SYNERGYBROADBAND-MI-02 - SYNERGY BROADBAND
+22485:MONTANA-OPTICOM-AS22485 - Montana Opticom, LLC
+26282:MESSAGELABS-NAM - MessageLabs Inc.
+36071:T1COMPANY - The T-1 Company, LLC
+11399:WILLIAMSCOLLEGE - Williams College Center for Computing
+22811:WSGR - Wilson, Sonsini, Goodrich & Rosati, Professional Corporation
+77:JHUAPL-AS - Johns Hopkins University Applied Physics Laboratory
+13415:FIRSTDIGITAL - FirstDigital Communications, LLC
+26040:STARWOODHOTELS-PHOENIX - Starwood Hotels and Resorts
+10397:SINGLEPIPE - SinglePipe Communications, Inc.
+15141:ASN-BAUSCH-LOMB - Bausch & Lomb
+11672:ACSIN-AS-1 - Globalvision
+40575:STRATOS - Stratos Global Communications
+3582:UONET - University of Oregon
+2:UDEL-DCN - University of Delaware
+27334:MEGAGATE - Megagate Broadband, Inc.
+16922:OUHSC-EDU - University of Oklahoma HSC
+19495:SBCASI-AKRON-OH-COVLIL - AT&T Internet Services
+46790:PHS-WA - Providence Health & Services
+46924:BJU-ASN - Bob Jones University
+22648:SWG - Southwest Gas Corporation
+32312:TELECOMSYS-PUBLIC - Telecommunication Systems, Inc.
+29842:ETSU-NET - East Tennessee State University
+14655:HAMPTONU - Hampton University
+22445:MHK - Mohawk Industries, Inc.
+26978:CARPATHIA-ASN Carpathia Hosting, Phoenix
+46692:CITYOFWINDOM - City of Windom
+32592:HUNT-BROTHERS-OF-LOUISIANA-LLC - Hunt Brothers
+14572:N2V - N2V, INC.
+20412:WOW-INTERNET - WideOpenWest Finance LLC
+26783:MARICOPA-COUNTY-COMMUNITY-COLLEGE-DISTRICT - Maricopa County Community College District
+30674:BAYLORU - Baylor University
+33502:VRCT-AUR - SunGard VeriCenter Inc
+13560:SCRR-13560 - Time Warner Cable Internet LLC
+6072:UNISYS-6072 For routing issues, email hostmaster@unisys.com
+11069:EGIX-INDY-AS-11069 - Egix, Inc.
+30496:COLO4 - Colo4, LLC
+36692:OPENDNS - OpenDNS, LLC
+16591:GOOGLE-FIBER - Google Fiber Inc.
+54640:CONEHEALTH - The Moses H. Cone Memorial Hospital
+36680:EQUITY-NATIONAL - Equity National Title Insurance Company
+26840:ABG - Advanced Business Group, LLC
+11300:GLOBECOMM-11300 - Globecomm Services Maryland LLC
+17070:UBSW-CHICAGO - UBS AG
+22932:CCL-224-AS - Cobridge Communications LLC
+13546:INNOVATIVE-INTERFACES-INC - Innovative Interfaces, Inc.
+11051:CYBERVERSE - Cyberverse, Inc.
+46773:IDPNET - INTEGRATED DATA PROCESSING, INC.
+26485:SIXCONTINENTS - Six Continents Hotels, Inc.
+54380:THOUGHTWAVE - ThoughtWave Technologies LLC
+36837:ASN-TELETRAC - Teletrac, Inc.
+26410:PTPA - Point To Point Access.Com
+14940:LIGO-ANYCASTED-SERVICES - LIGO Livingston Observatory
+17339:SAFELITE - Safelite Glass Corp.
+1526:DNIC-ASBLK-01522-01526 - Headquarters, USAISC
+25712:CSIPADKY - Computer Services Inc
+40135:KITTELSON-DIGIWEST-FORTLAUDERDALE - KITTELSON AND ASSOCIATES, INC.
+22562:CSC-IGN-EMEA - Computer Sciences Corporation
+30417:BTIG-UK-LLP BTIG UK LLP
+18481:BSWLHRICAS - BOCES Southern Westchester Lower Hudson Regional Information Center
+17350:KMV-LLC - Moody_s KMV
+1206:PSCNET-HS-AS - Pittsburgh Supercomputing Center
+7333:WINNET - WinNET Communications, Inc.
+22130:DAS-BGP-29 - Doctor_s Associates Inc.
+20012:INTERNET-HOLDINGS-AS - Internet Holdings LLC
+26971:UTHSCSA-AS - University of Texas
+14341:MARVEL - MARVEL ENTERPRISES INC
+7024:PIXELGATE - PixelGate
+14987:RETHEMHOSTING - Rethem Hosting LLC
+21877:CSC-USA - Computer Sciences Corporation
+6157:SPRINTLINK-HOSTING - SPRINT, Business Serices Group
+13412:VULCAN-NORTHWEST - Vulcan Northwest, Inc.
+22098:CAPGROUP-NA - The Capital Group Companies, Inc.
+33730:BAL-KINGSTON-1 - Bank of America - Libris
+22066:CITY-OF-EAU-CLAIRE - City of Eau Claire
+30198:KENT-SCHOOL-DISTRICT - Kent School District
+30581:LAM-ASN - Lydian Asset Management LP
+12075:JACOBS - Jacobs Engineering Group
+22200:BLOOMINGDALE-COMMUNICATIONS - Bloomingdale Communications Inc.
+26250:WEBROOT-CORP-AS1 - Webroot Inc.
+18643:SMARTCITY-LVCC - Smart City Networks, L.P.
+6383:BELLSOUTH-NET-BLK - BellSouth.net Inc.
+33401:CPCC - Central Piedmont Community College
+27467:RACKMY-STL-AS1 - XIOLINK, LLC
+10882:CLARITYCONNECT - Clarity Connect Inc
+46375:AS-SONICTELECOM - Sonic Telecom LLC
+18663:UOP-AS - University of the Pacific
+26091:INDDC - Indiana Data Center, LLC
+21840:SAGONET-TPA - Sago Networks
+33490:COMCAST-33490 - Comcast Cable Communications, Inc.
+22452:NOMINUM Tautological self-reference: AS is duplicated in RADB
+27065:DNIC-ASBLK-27032-27159 - DoD Network Information Center
+53768:LABCORP - Laboratory Corporation of America
+25971:MILWAUKEE-PS - Milwaukee Public Schools
+53271:PHENIXCITYCABLE - Phenix Cable
+40954:JMFAMILY - JM Family Enterprises Inc.
+16831:FUJITSU - Fujitsu Network Communications, Inc.
+13831:OA-BLI-1 - Open Access Network Services LLC
+12052:VFC - VF Services, Inc. Information Technology Services
+324:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+30686:LVLT-30686 - Level 3 Communications, Inc.
+22709:NSTELCO - North State Telephone Co.
+36377:PATRIOT-MEDIA-NJ - Comcast Telecommunications, Inc.
+6650:LOGICWORKS-AS - Logicworks Corporation
+346:DNIC-ASBLK-00306-00371 - DoD Network Information Center
+4241:CSFTB - California State Franchise Tax Board
+30597:AMBEST-ASN - A.M. Best Company
+285:DNIC-AS-00285 - Headquarters, USAISC
+508:AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+560:LVLT-560 - Level 3 Communications, Inc.
+1328:ANSBB-ASNNET-1 - Advanced Networks & Services Inc.

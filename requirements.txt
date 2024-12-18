@@ -1,0 +1,4 @@
+requests==2.31.0  # For HTTP requests (used for downloading files)
+pandas==2.1.1     # For data manipulation and handling CSV files
+geoip2==4.7.0     # For processing GeoLite2 databases (.mmdb files)
+
