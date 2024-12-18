@@ -15,28 +15,7 @@
 
 ## Folder Structure
 
-
-  GeoIP-Range-Extractor/
-│
-├── geoip_extractor.py         # Main script for extracting IP ranges by country or ASN
-├── update_geoip_db.py         # Script for updating GeoLite databases, saving them in the DATA_BASE_DONT_DELETED folder
-├── ASN-FILTERS/               # Folder containing ASN filter files
-│   ├── amazon.txt             # Example filter file for Amazon ASN numbers (one per line)
-│   ├── microsoft.txt          # Example filter file for Microsoft ASN numbers
-│   └── ...
-├── DATA_BASE_DONT_DELETED/    # Folder where GeoLite .mmdb files are stored
-│   ├── GeoLite2-Country.mmdb  # GeoLite database for country lookups
-│   ├── GeoLite2-ASN.mmdb      # GeoLite database for ASN lookups
-│   └── ...
-├── results/                   # Folder for generated results
-│   ├── Result_country_filter_name.txt     # Results filtered by ASN within the selected country
-│   ├── Rest_country_filter_name.txt       # Remaining results for the country without filtered ASNs
-│   └── concatenate_shuf.txt               # Final results (filtered + unfiltered), shuffled randomly
-├── asn_list.txt               # Informal list of ASN numbers and names (used for creating filters)
-├── README.md                  # Project documentation
-├── LICENSE                    # Project license
-└── requirements.txt           # List of required Python libraries
-
+GeoIP-Range-Extractor/ │ ├── geoip_extractor.py # Main script for extracting IP ranges by country or ASN ├── update_geoip_db.py # Script for updating GeoLite databases, saving them in the DATA_BASE_DONT_DELETED folder ├── ASN-FILTERS/ # Folder containing ASN filter files │ ├── amazon.txt # Example filter file for Amazon ASN numbers (one per line) │ ├── microsoft.txt # Example filter file for Microsoft ASN numbers │ └── ... ├── DATA_BASE_DONT_DELETED/ # Folder where GeoLite .mmdb files are stored │ ├── GeoLite2-Country.mmdb # GeoLite database for country lookups │ ├── GeoLite2-ASN.mmdb # GeoLite database for ASN lookups │ └── ... ├── results/ # Folder for generated results │ ├── Result_country_filter_name.txt # Results filtered by ASN within the selected country │ ├── Rest_country_filter_name.txt # Remaining results for the country without filtered ASNs │ └── concatenate_shuf.txt # Final results (filtered + unfiltered), shuffled randomly ├── asn_list.txt # Informal list of ASN numbers and names (used for creating filters) ├── README.md # Project documentation ├── LICENSE # Project license └── requirements.txt # List of required Python libraries
 
 ##Installation
 
@@ -61,11 +40,13 @@ Run update_geoip_db.py to download and update the GeoLite2 databases:
 
 Run the main script geoip_extractor.py:
 
-             python3  geoip_extractor.py
-
-     All Countries: Enter 0 to extract IP ranges for all available countries.
-     Specific Countries: Enter one or more country codes, separated by commas, to extract IP ranges for specific countries. 
-    Use the exact country codes displayed in the terminal.    
+        python3  geoip_extractor.py
+             
+             
+             
+All Countries: Enter 0 to extract IP ranges for all available countries.
+Specific Countries: Enter one or more country codes, separated by commas, to extract IP ranges for specific countries. 
+Use the exact country codes displayed in the terminal.    
 
 
 #Example:
