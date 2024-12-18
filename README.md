@@ -16,7 +16,7 @@
 ## Folder Structure
 
 
-GeoIP-Range-Extractor/
+  GeoIP-Range-Extractor/
 │
 ├── geoip_extractor.py         # Main script for extracting IP ranges by country or ASN
 ├── update_geoip_db.py         # Script for updating GeoLite databases, saving them in the DATA_BASE_DONT_DELETED folder
@@ -44,7 +44,7 @@ git clone https://github.com/AndreiSorin/GeoIP-Range-Extractor.git
 
 cd GeoIP-Range-Extractor
 
-pip install -r requirements.txt
+        pip install -r requirements.txt
 
 
 ##Usage
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 Run update_geoip_db.py to download and update the GeoLite2 databases:
 
 
-python3 update_geoip_db.py   
+          python3 update_geoip_db.py   
 
  
  
@@ -61,7 +61,7 @@ python3 update_geoip_db.py
 
 Run the main script geoip_extractor.py:
 
-python3  geoip_extractor.py
+             python3  geoip_extractor.py
 
      All Countries: Enter 0 to extract IP ranges for all available countries.
      Specific Countries: Enter one or more country codes, separated by commas, to extract IP ranges for specific countries. 
@@ -77,11 +77,11 @@ Use the provided ASN filter files to refine your results.
 
 #Step 3: Results
        
-       The extracted results will be saved in the results/ folder:
+ The extracted results will be saved in the results/ folder:
 
-                   Result_<country>_<filter>.txt: Filtered results by ASN.
-                  Rest_<country>_<filter>.txt: IP ranges not matching the ASN filters. 
-                  concatenate_shuf.txt: Combined and randomized results
+ Result_<country>_<filter>.txt: Filtered results by ASN.
+ Rest_<country>_<filter>.txt: IP ranges not matching the ASN filters. 
+ concatenate_shuf.txt: Combined and randomized results
  
  
  
@@ -128,8 +128,9 @@ GeoLite2-City.mmdb
 
 This project was created and maintained by **Andrei Sorin**.
 
-GitHub Profile: [AndreiSorin](https://github.com/AndreiSorin)
+GitHub Profile: [PhoenixZuko](https://github.com/AndreiSorin)
 
 # GeoIP-Utility
-# GeoIP-Utility
-# GeoIP-Utility
+# GeoIP-Range-Extractor
+#GeoIP-ASN
+
